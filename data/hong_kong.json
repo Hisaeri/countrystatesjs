@@ -1,0 +1,124 @@
+{
+    "name": "Hong Kong",
+    "altSpellings": [
+        "HK",
+        "中華人民共和國香港特別行政區",
+        "Jūng'wàh Yàhnmàhn",
+        "Guhng'wòhgwok Hēunggóng Dahkbiht Hàhngjingkēui",
+        "Hong Kong Special Administrative Region of the People's Republic of China"
+    ],
+    "ISO": {
+        "alpha2": "HK",
+        "alpha3": "HKG"
+    },
+    "states": [
+        {
+            "name": "中西區",
+            "english": "Central and Western",
+            "country": "HK",
+            "region": "Hong Kong Island"
+        },
+        {
+            "name": "東區",
+            "english": "Eastern",
+            "country": "HK",
+            "region": "Hong Kong Island"
+        },
+        {
+            "name": "南區",
+            "english": "Southern",
+            "country": "HK",
+            "region": "Hong Kong Island"
+        },
+        {
+            "name": "灣仔區",
+            "english": "Wan Chai",
+            "country": "HK",
+            "region": "Hong Kong Island"
+        },
+        {
+            "name": "深水埗區",
+            "english": "Sham Shui Po",
+            "country": "HK",
+            "region": "Kowloon"
+        },
+        {
+            "name": "九龍城區",
+            "english": "Kowloon City",
+            "country": "HK",
+            "region": "Kowloon"
+        },
+        {
+            "name": "觀塘區",
+            "english": "Kwun Tong",
+            "country": "HK",
+            "region": "Kowloon"
+        },
+        {
+            "name": "黃大仙區",
+            "english": "Wong Tai Sin",
+            "country": "HK",
+            "region": "Kowloon"
+        },
+        {
+            "name": "油尖旺區",
+            "english": "Yau Tsim Mong",
+            "country": "HK",
+            "region": "Kowloon"
+        },
+        {
+            "name": "離島區",
+            "english": "Islands",
+            "country": "HK",
+            "region": "New Territories"
+        },
+        {
+            "name": "葵青區",
+            "english": "Kwai Tsing",
+            "country": "HK",
+            "region": "New Territories"
+        },
+        {
+            "name": "北區",
+            "english": "North",
+            "country": "HK",
+            "region": "New Territories"
+        },
+        {
+            "name": "西貢區",
+            "english": "Sai Kung",
+            "country": "HK",
+            "region": "New Territories"
+        },
+        {
+            "name": "沙田區",
+            "english": "Sha Tin",
+            "country": "HK",
+            "region": "New Territories"
+        },
+        {
+            "name": "大埔區",
+            "english": "Tai Po",
+            "country": "HK",
+            "region": "New Territories"
+        },
+        {
+            "name": "荃灣區",
+            "english": "Tsuen Wan",
+            "country": "HK",
+            "region": "New Territories"
+        },
+        {
+            "name": "屯門區",
+            "english": "Tuen Mun",
+            "country": "HK",
+            "region": "New Territories"
+        },
+        {
+            "name": "元朗區",
+            "english": "Yuen Long",
+            "country": "HK",
+            "region": "New Territories"
+        }
+    ]
+}
