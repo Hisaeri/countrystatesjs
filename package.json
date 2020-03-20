@@ -1,11 +1,11 @@
 {
-  "name": "countrystatesjs",
-  "version": "0.0.12",
+  "name": "countrystatesjs-hisaeri",
+  "version": "0.0.13",
   "description": "A utility library for returning state/province data given a country",
   "main": "index.js",
-  "author": "Scott Wyatt <scottwyatt86@gmail.com> (http://cali-style.com)",
+  "author": "Roch Fiona",
   "license": "MIT",
-  "repository": "scott-wyatt/countrystatesjs",
+  "repository": "Hisaeri/countrystatesjs",
   "engines": [
     "node"
   ],
@@ -23,9 +23,9 @@
     "province"
   ],
   "bugs": {
-    "url": "https://github.com/scott-wyatt/countrystatesjs/issues"
+    "url": "https://github.com/Hisaeri/countrystatesjs/issues"
   },
-  "homepage": "https://github.com/scott-wyatt/countrystatesjs",
+  "homepage": "https://github.com/Hisaeri/countrystatesjs",
   "dependencies": {
     "bulk-require": "^1.0.0",
     "lodash": "^4.2.1"
