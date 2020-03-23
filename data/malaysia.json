@@ -1,0 +1,76 @@
+{
+    "name": "Malaysia",
+    "altSpellings": [
+        "MY"
+    ],
+    "ISO": {
+        "alpha2": "HK",
+        "alpha3": "HKG"
+    },
+    "states": [
+        {
+            "name": "Wp Kuala Lumpur",
+            "country": "MY"
+        },
+        {
+            "name": "Johor",
+            "country": "MY"
+        },
+        {
+            "name": "Kedah",
+            "country": "MY"
+        },
+        {
+            "name": "Kelantan",
+            "country": "MY"
+        },
+        {
+            "name": "Melaka",
+            "country": "MY"
+        },
+        {
+            "name": "Negeri Sembilan",
+            "country": "MY"
+        },
+        {
+            "name": "Pahang",
+            "country": "MY"
+        },
+        {
+            "name": "Penang",
+            "country": "MY"
+        },
+        {
+            "name": "Perak",
+            "country": "MY"
+        },
+        {
+            "name": "Perlis",
+            "country": "MY"
+        },
+        {
+            "name": "Sabah",
+            "country": "MY"
+        },
+        {
+            "name": "Sarawak",
+            "country": "MY"
+        },
+        {
+            "name": "Selangor",
+            "country": "MY"
+        },
+        {
+            "name": "Terengganu",
+            "country": "MY"
+        },
+        {
+            "name": "Wp Labuan",
+            "country": "MY"
+        },
+        {
+            "name": "Wp Putrajaya",
+            "country": "MY"
+        }
+    ]
+}
