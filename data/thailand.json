@@ -1,0 +1,4111 @@
+{
+    "name": "Thailand",
+    "altSpellings": [
+        "TH"
+    ],
+    "ISO": {
+        "alpha2": "TH",
+        "alpha3": "THA"
+    },
+    "states": [
+        [
+            {
+                "name": "กรุงเทพมหานคร",
+                "districts": [
+                    {
+                        "district": "คลองเตย",
+                        "postal_code": "10110"
+                    },
+                    {
+                        "district": "คลองสาน",
+                        "postal_code": "10600"
+                    },
+                    {
+                        "district": "คลองสามวา",
+                        "postal_code": "10510"
+                    },
+                    {
+                        "district": "คันนายาว",
+                        "postal_code": "10230"
+                    },
+                    {
+                        "district": "จตุจักร",
+                        "postal_code": "10900"
+                    },
+                    {
+                        "district": "จอมทอง",
+                        "postal_code": "10150"
+                    },
+                    {
+                        "district": "ดอนเมือง",
+                        "postal_code": "10210"
+                    },
+                    {
+                        "district": "ดินแดง",
+                        "postal_code": "10400"
+                    },
+                    {
+                        "district": "ดุสิต",
+                        "postal_code": "10300"
+                    },
+                    {
+                        "district": "ตลิ่งชัน",
+                        "postal_code": "10170"
+                    },
+                    {
+                        "district": "ทวีวัฒนา",
+                        "postal_code": "10170"
+                    },
+                    {
+                        "district": "ทุ่งครุ",
+                        "postal_code": "10140"
+                    },
+                    {
+                        "district": "ธนบุรี",
+                        "postal_code": "10600"
+                    },
+                    {
+                        "district": "บางกอกน้อย",
+                        "postal_code": "10700"
+                    },
+                    {
+                        "district": "บางกอกใหญ่",
+                        "postal_code": "10600"
+                    },
+                    {
+                        "district": "บางกะปิ",
+                        "postal_code": "10240"
+                    },
+                    {
+                        "district": "บางขุนเทียน",
+                        "postal_code": "10150"
+                    },
+                    {
+                        "district": "บางเขน",
+                        "postal_code": "10220"
+                    },
+                    {
+                        "district": "บางคอแหลม",
+                        "postal_code": "10120"
+                    },
+                    {
+                        "district": "บางแค",
+                        "postal_code": "10160"
+                    },
+                    {
+                        "district": "บางซื่อ",
+                        "postal_code": "10800"
+                    },
+                    {
+                        "district": "บางนา",
+                        "postal_code": "10260"
+                    },
+                    {
+                        "district": "บางบอน",
+                        "postal_code": "10150"
+                    },
+                    {
+                        "district": "บางพลัด",
+                        "postal_code": "10700"
+                    },
+                    {
+                        "district": "บางรัก",
+                        "postal_code": "10500"
+                    },
+                    {
+                        "district": "บึงกุ่ม",
+                        "postal_code": "10240"
+                    },
+                    {
+                        "district": "ประเวศ",
+                        "postal_code": "10250"
+                    },
+                    {
+                        "district": "ปทุมวัน",
+                        "postal_code": "10330"
+                    },
+                    {
+                        "district": "ป้อมปราบศัตรูพ่าย",
+                        "postal_code": "10100"
+                    },
+                    {
+                        "district": "พญาไท",
+                        "postal_code": "10400"
+                    },
+                    {
+                        "district": "พระโขนง",
+                        "postal_code": "10260"
+                    },
+                    {
+                        "district": "พระนคร",
+                        "postal_code": "10200"
+                    },
+                    {
+                        "district": "ภาษีเจริญ",
+                        "postal_code": "10160"
+                    },
+                    {
+                        "district": "มีนบุรี",
+                        "postal_code": "10510"
+                    },
+                    {
+                        "district": "ยานนาวา",
+                        "postal_code": "10120"
+                    },
+                    {
+                        "district": "ราชเทวี",
+                        "postal_code": "10400"
+                    },
+                    {
+                        "district": "ราษฎร์บูรณะ",
+                        "postal_code": "10140"
+                    },
+                    {
+                        "district": "ลาดกระบัง",
+                        "postal_code": "10520"
+                    },
+                    {
+                        "district": "ลาดพร้าว",
+                        "postal_code": "10230"
+                    },
+                    {
+                        "district": "วังทองหลาง",
+                        "postal_code": "10310"
+                    },
+                    {
+                        "district": "วัฒนา",
+                        "postal_code": "10110"
+                    },
+                    {
+                        "district": "สวนหลวง",
+                        "postal_code": "10250"
+                    },
+                    {
+                        "district": "สะพานสูง",
+                        "postal_code": "10240"
+                    },
+                    {
+                        "district": "สัมพันธวงศ์",
+                        "postal_code": "10100"
+                    },
+                    {
+                        "district": "สาทร",
+                        "postal_code": "10120"
+                    },
+                    {
+                        "district": "สายไหม",
+                        "postal_code": "10220"
+                    },
+                    {
+                        "district": "หนองแขม",
+                        "postal_code": "10160"
+                    },
+                    {
+                        "district": "หนองจอก",
+                        "postal_code": "10530"
+                    },
+                    {
+                        "district": "หลักสี่",
+                        "postal_code": "10210"
+                    },
+                    {
+                        "district": "ห้วยขวาง",
+                        "postal_code": "10310"
+                    }
+                ]
+            },
+            {
+                "name": "กระบี่",
+                "districts": [
+                    {
+                        "district": "เมืองกระบี่",
+                        "postal_code": "81000"
+                    },
+                    {
+                        "district": "เกาะลันตา",
+                        "postal_code": "81150"
+                    },
+                    {
+                        "district": "เขาพนม",
+                        "postal_code": "81140"
+                    },
+                    {
+                        "district": "คลองท่อม",
+                        "postal_code": "81120"
+                    },
+                    {
+                        "district": "ปลายพระยา",
+                        "postal_code": "81160"
+                    },
+                    {
+                        "district": "ลำทับ",
+                        "postal_code": "81190"
+                    },
+                    {
+                        "district": "เหนือคลอง",
+                        "postal_code": "81130"
+                    },
+                    {
+                        "district": "อ่าวลึก",
+                        "postal_code": "81110"
+                    }
+                ]
+            },
+            {
+                "name": "กาญจนบุรี",
+                "districts": [
+                    {
+                        "district": "เมืองกาญจนบุรี",
+                        "postal_code": "71000"
+                    },
+                    {
+                        "district": "ด่านมะขามเตี้ย",
+                        "postal_code": "71260"
+                    },
+                    {
+                        "district": "ทองผาภูมิ",
+                        "postal_code": "71180"
+                    },
+                    {
+                        "district": "ท่าม่วง",
+                        "postal_code": "71110"
+                    },
+                    {
+                        "district": "ท่ามะกา",
+                        "postal_code": "71120"
+                    },
+                    {
+                        "district": "ไทรโยค",
+                        "postal_code": "71150"
+                    },
+                    {
+                        "district": "บ่อพลอย",
+                        "postal_code": "71160"
+                    },
+                    {
+                        "district": "พนมทวน",
+                        "postal_code": "71140"
+                    },
+                    {
+                        "district": "เลาขวัญ",
+                        "postal_code": "71210"
+                    },
+                    {
+                        "district": "ศรีสวัสดิ์",
+                        "postal_code": "71250"
+                    },
+                    {
+                        "district": "สังขละบุรี",
+                        "postal_code": "71240"
+                    },
+                    {
+                        "district": "หนองปรือ",
+                        "postal_code": "71220"
+                    },
+                    {
+                        "district": "ห้วยกระเจา",
+                        "postal_code": "71170"
+                    }
+                ]
+            },
+            {
+                "name": "กาฬสินธุ์",
+                "districts": [
+                    {
+                        "district": "เมืองกาฬสินธุ์",
+                        "postal_code": "46000"
+                    },
+                    {
+                        "district": "กมลาไสย",
+                        "postal_code": "46130"
+                    },
+                    {
+                        "district": "กุฉินารายณ์",
+                        "postal_code": "46110"
+                    },
+                    {
+                        "district": "เขาวง",
+                        "postal_code": "46160"
+                    },
+                    {
+                        "district": "คำม่วง",
+                        "postal_code": "46180"
+                    },
+                    {
+                        "district": "ฆ้องชัย",
+                        "postal_code": "46130"
+                    },
+                    {
+                        "district": "ดอนจาน",
+                        "postal_code": "46000"
+                    },
+                    {
+                        "district": "ท่าคันโท",
+                        "postal_code": "46190"
+                    },
+                    {
+                        "district": "นาคู",
+                        "postal_code": "46160"
+                    },
+                    {
+                        "district": "นามน",
+                        "postal_code": "46230"
+                    },
+                    {
+                        "district": "ยางตลาด",
+                        "postal_code": "46120"
+                    },
+                    {
+                        "district": "ร่องคำ",
+                        "postal_code": "46210"
+                    },
+                    {
+                        "district": "สมเด็จ",
+                        "postal_code": "46150"
+                    },
+                    {
+                        "district": "สหัสขันธ์",
+                        "postal_code": "46140"
+                    },
+                    {
+                        "district": "สามชัย",
+                        "postal_code": "46180"
+                    },
+                    {
+                        "district": "หนองกุงศรี",
+                        "postal_code": "46220"
+                    },
+                    {
+                        "district": "ห้วยผึ้ง",
+                        "postal_code": "46240"
+                    },
+                    {
+                        "district": "ห้วยเม็ก",
+                        "postal_code": "46170"
+                    }
+                ]
+            },
+            {
+                "name": "กำแพงเพชร",
+                "districts": [
+                    {
+                        "district": "เมืองกำแพงเพชร",
+                        "postal_code": "62000"
+                    },
+                    {
+                        "district": "โกสัมพีนคร",
+                        "postal_code": "62000"
+                    },
+                    {
+                        "district": "ขาณุวรลักษบุรี",
+                        "postal_code": "62130"
+                    },
+                    {
+                        "district": "คลองขลุง",
+                        "postal_code": "62120"
+                    },
+                    {
+                        "district": "คลองลาน",
+                        "postal_code": "62180"
+                    },
+                    {
+                        "district": "ทรายทองวัฒนา",
+                        "postal_code": "62190"
+                    },
+                    {
+                        "district": "ไทรงาม",
+                        "postal_code": "62150"
+                    },
+                    {
+                        "district": "บึงสามัคคี",
+                        "postal_code": "62210"
+                    },
+                    {
+                        "district": "ปางศิลาทอง",
+                        "postal_code": "62120"
+                    },
+                    {
+                        "district": "พรานกระต่าย",
+                        "postal_code": "62110"
+                    },
+                    {
+                        "district": "ลานกระบือ",
+                        "postal_code": "62170"
+                    }
+                ]
+            },
+            {
+                "name": "ขอนแก่น",
+                "districts": [
+                    {
+                        "district": "เมืองขอนแก่น",
+                        "postal_code": "40000"
+                    },
+                    {
+                        "district": "กระนวน",
+                        "postal_code": "40170"
+                    },
+                    {
+                        "district": "เขาสวนกวาง",
+                        "postal_code": "40280"
+                    },
+                    {
+                        "district": "โคกโพธิ์ไชย",
+                        "postal_code": "40160"
+                    },
+                    {
+                        "district": "ชนบท",
+                        "postal_code": "40180"
+                    },
+                    {
+                        "district": "ชุมแพ",
+                        "postal_code": "40130"
+                    },
+                    {
+                        "district": "ซำสูง",
+                        "postal_code": "40170"
+                    },
+                    {
+                        "district": "น้ำพอง",
+                        "postal_code": "40140"
+                    },
+                    {
+                        "district": "โนนศิลา",
+                        "postal_code": "40110"
+                    },
+                    {
+                        "district": "บ้านไผ่",
+                        "postal_code": "40110"
+                    },
+                    {
+                        "district": "บ้านฝาง",
+                        "postal_code": "40270"
+                    },
+                    {
+                        "district": "บ้านแฮด",
+                        "postal_code": "40110"
+                    },
+                    {
+                        "district": "เปือยน้อย",
+                        "postal_code": "40340"
+                    },
+                    {
+                        "district": "พระยืน",
+                        "postal_code": "40320"
+                    },
+                    {
+                        "district": "พล",
+                        "postal_code": "40120"
+                    },
+                    {
+                        "district": "ภูผาม่าน",
+                        "postal_code": "40350"
+                    },
+                    {
+                        "district": "ภูเวียง",
+                        "postal_code": "40150"
+                    },
+                    {
+                        "district": "มัญจาคีรี",
+                        "postal_code": "40160"
+                    },
+                    {
+                        "district": "เวียงเก่า",
+                        "postal_code": "40150"
+                    },
+                    {
+                        "district": "แวงน้อย",
+                        "postal_code": "40230"
+                    },
+                    {
+                        "district": "แวงใหญ่",
+                        "postal_code": "40330"
+                    },
+                    {
+                        "district": "สีชมพู",
+                        "postal_code": "40220"
+                    },
+                    {
+                        "district": "หนองนาคำ",
+                        "postal_code": "40150"
+                    },
+                    {
+                        "district": "หนองเรือ",
+                        "postal_code": "40210"
+                    },
+                    {
+                        "district": "หนองสองห้อง",
+                        "postal_code": "40190"
+                    },
+                    {
+                        "district": "อุบลรัตน์",
+                        "postal_code": "40250"
+                    }
+                ]
+            },
+            {
+                "name": "จันทบุรี",
+                "districts": [
+                    {
+                        "district": "เมืองจันทบุรี",
+                        "postal_code": "22000"
+                    },
+                    {
+                        "district": "แก่งหางแมว",
+                        "postal_code": "22160"
+                    },
+                    {
+                        "district": "ขลุง",
+                        "postal_code": "22110"
+                    },
+                    {
+                        "district": "เขาคิชฌกูฏ",
+                        "postal_code": "22210"
+                    },
+                    {
+                        "district": "ท่าใหม่",
+                        "postal_code": "22120"
+                    },
+                    {
+                        "district": "นายายอาม",
+                        "postal_code": "22160"
+                    },
+                    {
+                        "district": "โป่งน้ำร้อน",
+                        "postal_code": "22140"
+                    },
+                    {
+                        "district": "มะขาม",
+                        "postal_code": "22150"
+                    },
+                    {
+                        "district": "สอยดาว",
+                        "postal_code": "22180"
+                    },
+                    {
+                        "district": "แหลมสิงห์",
+                        "postal_code": "22130"
+                    }
+                ]
+            },
+            {
+                "name": "ฉะเชิงเทรา",
+                "districts": [
+                    {
+                        "district": "เมืองฉะเชิงเทรา",
+                        "postal_code": "24000"
+                    },
+                    {
+                        "district": "คลองเขื่อน",
+                        "postal_code": "24000"
+                    },
+                    {
+                        "district": "ท่าตะเกียบ",
+                        "postal_code": "24160"
+                    },
+                    {
+                        "district": "บางคล้า",
+                        "postal_code": "24110"
+                    },
+                    {
+                        "district": "บางน้ำเปรี้ยว",
+                        "postal_code": "24150"
+                    },
+                    {
+                        "district": "บางปะกง",
+                        "postal_code": "24130"
+                    },
+                    {
+                        "district": "บ้านโพธิ์",
+                        "postal_code": "24140"
+                    },
+                    {
+                        "district": "แปลงยาว",
+                        "postal_code": "24190"
+                    },
+                    {
+                        "district": "พนมสารคาม",
+                        "postal_code": "24120"
+                    },
+                    {
+                        "district": "ราชสาส์น",
+                        "postal_code": "24120"
+                    },
+                    {
+                        "district": "สนามชัยเขต",
+                        "postal_code": "24160"
+                    }
+                ]
+            },
+            {
+                "name": "ชลบุรี",
+                "districts": [
+                    {
+                        "district": "เมืองชลบุรี",
+                        "postal_code": "20000"
+                    },
+                    {
+                        "district": "เกาะจันทร์",
+                        "postal_code": "20240"
+                    },
+                    {
+                        "district": "เกาะสีชัง",
+                        "postal_code": "20120"
+                    },
+                    {
+                        "district": "บ่อทอง",
+                        "postal_code": "20270"
+                    },
+                    {
+                        "district": "บางละมุง",
+                        "postal_code": "20150"
+                    },
+                    {
+                        "district": "บ้านบึง",
+                        "postal_code": "20170"
+                    },
+                    {
+                        "district": "พนัสนิคม",
+                        "postal_code": "20140"
+                    },
+                    {
+                        "district": "พานทอง",
+                        "postal_code": "20160"
+                    },
+                    {
+                        "district": "ศรีราชา",
+                        "postal_code": "20110"
+                    },
+                    {
+                        "district": "สัตหีบ",
+                        "postal_code": "20180"
+                    },
+                    {
+                        "district": "หนองใหญ่",
+                        "postal_code": "20190"
+                    }
+                ]
+            },
+            {
+                "name": "ชัยนาท",
+                "districts": [
+                    {
+                        "district": "เมืองชัยนาท",
+                        "postal_code": "17000"
+                    },
+                    {
+                        "district": "เนินขาม",
+                        "postal_code": "17130"
+                    },
+                    {
+                        "district": "มโนรมย์",
+                        "postal_code": "17110"
+                    },
+                    {
+                        "district": "วัดสิงห์",
+                        "postal_code": "17120"
+                    },
+                    {
+                        "district": "สรรคบุรี",
+                        "postal_code": "17140"
+                    },
+                    {
+                        "district": "สรรพยา",
+                        "postal_code": "17150"
+                    },
+                    {
+                        "district": "หนองมะโมง",
+                        "postal_code": "17120"
+                    },
+                    {
+                        "district": "หันคา",
+                        "postal_code": "17130"
+                    }
+                ]
+            },
+            {
+                "name": "ชัยภูมิ",
+                "districts": [
+                    {
+                        "district": "เมืองชัยภูมิ",
+                        "postal_code": "36000"
+                    },
+                    {
+                        "district": "เกษตรสมบูรณ์",
+                        "postal_code": "36120"
+                    },
+                    {
+                        "district": "แก้งคร้อ",
+                        "postal_code": "36150"
+                    },
+                    {
+                        "district": "คอนสวรรค์",
+                        "postal_code": "36140"
+                    },
+                    {
+                        "district": "คอนสาร",
+                        "postal_code": "36180"
+                    },
+                    {
+                        "district": "จัตุรัส",
+                        "postal_code": "36130"
+                    },
+                    {
+                        "district": "ซับใหญ่",
+                        "postal_code": "36130"
+                    },
+                    {
+                        "district": "เทพสถิต",
+                        "postal_code": "36230"
+                    },
+                    {
+                        "district": "เนินสง่า",
+                        "postal_code": "36130"
+                    },
+                    {
+                        "district": "บ้านเขว้า",
+                        "postal_code": "36170"
+                    },
+                    {
+                        "district": "บ้านแท่น",
+                        "postal_code": "36190"
+                    },
+                    {
+                        "district": "บำเหน็จณรงค์",
+                        "postal_code": "36160"
+                    },
+                    {
+                        "district": "ภักดีชุมพล",
+                        "postal_code": "36260"
+                    },
+                    {
+                        "district": "ภูเขียว",
+                        "postal_code": "36110"
+                    },
+                    {
+                        "district": "หนองบัวแดง",
+                        "postal_code": "36210"
+                    },
+                    {
+                        "district": "หนองบัวระเหว",
+                        "postal_code": "36250"
+                    }
+                ]
+            },
+            {
+                "name": "ชุมพร",
+                "districts": [
+                    {
+                        "district": "เมืองชุมพร",
+                        "postal_code": "86000"
+                    },
+                    {
+                        "district": "ท่าแซะ",
+                        "postal_code": "86140"
+                    },
+                    {
+                        "district": "ทุ่งตะโก",
+                        "postal_code": "86220"
+                    },
+                    {
+                        "district": "ปะทิว",
+                        "postal_code": "86160"
+                    },
+                    {
+                        "district": "พะโต๊ะ",
+                        "postal_code": "86180"
+                    },
+                    {
+                        "district": "ละแม",
+                        "postal_code": "86170"
+                    },
+                    {
+                        "district": "สวี",
+                        "postal_code": "86130"
+                    },
+                    {
+                        "district": "หลังสวน",
+                        "postal_code": "86110"
+                    }
+                ]
+            },
+            {
+                "name": "เชียงราย",
+                "districts": [
+                    {
+                        "district": "เมืองเชียงราย",
+                        "postal_code": "57000"
+                    },
+                    {
+                        "district": "ขุนตาล",
+                        "postal_code": "57340"
+                    },
+                    {
+                        "district": "เชียงของ",
+                        "postal_code": "57140"
+                    },
+                    {
+                        "district": "เชียงแสน",
+                        "postal_code": "57150"
+                    },
+                    {
+                        "district": "ดอยหลวง",
+                        "postal_code": "57110"
+                    },
+                    {
+                        "district": "เทิง",
+                        "postal_code": "57160"
+                    },
+                    {
+                        "district": "ป่าแดด",
+                        "postal_code": "57190"
+                    },
+                    {
+                        "district": "พญาเม็งราย",
+                        "postal_code": "57290"
+                    },
+                    {
+                        "district": "พาน",
+                        "postal_code": "57120"
+                    },
+                    {
+                        "district": "แม่จัน",
+                        "postal_code": "57110"
+                    },
+                    {
+                        "district": "แม่ฟ้าหลวง",
+                        "postal_code": "57240"
+                    },
+                    {
+                        "district": "แม่ลาว",
+                        "postal_code": "57250"
+                    },
+                    {
+                        "district": "แม่สรวย",
+                        "postal_code": "57180"
+                    },
+                    {
+                        "district": "แม่สาย",
+                        "postal_code": "57130"
+                    },
+                    {
+                        "district": "เวียงแก่น",
+                        "postal_code": "57310"
+                    },
+                    {
+                        "district": "เวียงชัย",
+                        "postal_code": "57210"
+                    },
+                    {
+                        "district": "เวียงเชียงรุ้ง",
+                        "postal_code": "57210"
+                    },
+                    {
+                        "district": "เวียงป่าเป้า",
+                        "postal_code": "57170"
+                    }
+                ]
+            },
+            {
+                "name": "เชียงใหม่",
+                "districts": [
+                    {
+                        "district": "เมืองเชียงใหม่",
+                        "postal_code": "50000"
+                    },
+                    {
+                        "district": "กัลยาณิวัฒนา",
+                        "postal_code": "58130"
+                    },
+                    {
+                        "district": "จอมทอง",
+                        "postal_code": "50160"
+                    },
+                    {
+                        "district": "เชียงดาว",
+                        "postal_code": "50170"
+                    },
+                    {
+                        "district": "ไชยปราการ",
+                        "postal_code": "50320"
+                    },
+                    {
+                        "district": "ดอยเต่า",
+                        "postal_code": "50260"
+                    },
+                    {
+                        "district": "ดอยสะเก็ด",
+                        "postal_code": "50220"
+                    },
+                    {
+                        "district": "ดอยหล่อ",
+                        "postal_code": "50160"
+                    },
+                    {
+                        "district": "ฝาง",
+                        "postal_code": "50110"
+                    },
+                    {
+                        "district": "พร้าว",
+                        "postal_code": "50190"
+                    },
+                    {
+                        "district": "แม่แจ่ม",
+                        "postal_code": "50270"
+                    },
+                    {
+                        "district": "แม่แตง",
+                        "postal_code": "50150"
+                    },
+                    {
+                        "district": "แม่ริม",
+                        "postal_code": "50180"
+                    },
+                    {
+                        "district": "แม่วาง",
+                        "postal_code": "50360"
+                    },
+                    {
+                        "district": "แม่ออน",
+                        "postal_code": "50130"
+                    },
+                    {
+                        "district": "แม่อาย",
+                        "postal_code": "50280"
+                    },
+                    {
+                        "district": "เวียงแหง",
+                        "postal_code": "50350"
+                    },
+                    {
+                        "district": "สะเมิง",
+                        "postal_code": "50250"
+                    },
+                    {
+                        "district": "สันกำแพง",
+                        "postal_code": "50130"
+                    },
+                    {
+                        "district": "สันทราย",
+                        "postal_code": "50210"
+                    },
+                    {
+                        "district": "สันป่าตอง",
+                        "postal_code": "50120"
+                    },
+                    {
+                        "district": "สารภี",
+                        "postal_code": "50140"
+                    },
+                    {
+                        "district": "หางดง",
+                        "postal_code": "50230"
+                    },
+                    {
+                        "district": "อมก๋อย",
+                        "postal_code": "50310"
+                    },
+                    {
+                        "district": "ฮอด",
+                        "postal_code": "50240"
+                    }
+                ]
+            },
+            {
+                "name": "ตรัง",
+                "districts": [
+                    {
+                        "district": "เมืองตรัง",
+                        "postal_code": "92000"
+                    },
+                    {
+                        "district": "กันตัง",
+                        "postal_code": "92110"
+                    },
+                    {
+                        "district": "นาโยง",
+                        "postal_code": "92170"
+                    },
+                    {
+                        "district": "ปะเหลียน",
+                        "postal_code": "92120"
+                    },
+                    {
+                        "district": "ย่านตาขาว",
+                        "postal_code": "92140"
+                    },
+                    {
+                        "district": "รัษฎา",
+                        "postal_code": "92160"
+                    },
+                    {
+                        "district": "วังวิเศษ",
+                        "postal_code": "92220"
+                    },
+                    {
+                        "district": "สิเกา",
+                        "postal_code": "92150"
+                    },
+                    {
+                        "district": "ห้วยยอด",
+                        "postal_code": "92130"
+                    },
+                    {
+                        "district": "หาดสำราญ",
+                        "postal_code": "92120"
+                    }
+                ]
+            },
+            {
+                "name": "ตราด",
+                "districts": [
+                    {
+                        "district": "เมืองตราด",
+                        "postal_code": "23000"
+                    },
+                    {
+                        "district": "เกาะกูด",
+                        "postal_code": "23000"
+                    },
+                    {
+                        "district": "เกาะช้าง",
+                        "postal_code": "23170"
+                    },
+                    {
+                        "district": "เขาสมิง",
+                        "postal_code": "23130"
+                    },
+                    {
+                        "district": "คลองใหญ่",
+                        "postal_code": "23110"
+                    },
+                    {
+                        "district": "บ่อไร่",
+                        "postal_code": "23140"
+                    },
+                    {
+                        "district": "แหลมงอบ",
+                        "postal_code": "23120"
+                    }
+                ]
+            },
+            {
+                "name": "ตาก",
+                "districts": [
+                    {
+                        "district": "เมืองตาก",
+                        "postal_code": "63000"
+                    },
+                    {
+                        "district": "ท่าสองยาง",
+                        "postal_code": "63150"
+                    },
+                    {
+                        "district": "บ้านตาก",
+                        "postal_code": "63120"
+                    },
+                    {
+                        "district": "พบพระ",
+                        "postal_code": "63160"
+                    },
+                    {
+                        "district": "แม่ระมาด",
+                        "postal_code": "63140"
+                    },
+                    {
+                        "district": "แม่สอด",
+                        "postal_code": "63110"
+                    },
+                    {
+                        "district": "วังเจ้า",
+                        "postal_code": "63180"
+                    },
+                    {
+                        "district": "สามเงา",
+                        "postal_code": "63130"
+                    },
+                    {
+                        "district": "อุ้มผาง",
+                        "postal_code": "63170"
+                    }
+                ]
+            },
+            {
+                "name": "นครนายก",
+                "districts": [
+                    {
+                        "district": "เมืองนครนายก",
+                        "postal_code": "26000"
+                    },
+                    {
+                        "district": "บ้านนา",
+                        "postal_code": "26110"
+                    },
+                    {
+                        "district": "ปากพลี",
+                        "postal_code": "26130"
+                    },
+                    {
+                        "district": "องครักษ์",
+                        "postal_code": "26120"
+                    }
+                ]
+            },
+            {
+                "name": "นครปฐม",
+                "districts": [
+                    {
+                        "district": "เมืองนครปฐม",
+                        "postal_code": "73000"
+                    },
+                    {
+                        "district": "กำแพงแสน",
+                        "postal_code": "73140"
+                    },
+                    {
+                        "district": "ดอนตูม",
+                        "postal_code": "73150"
+                    },
+                    {
+                        "district": "นครชัยศรี",
+                        "postal_code": "73120"
+                    },
+                    {
+                        "district": "บางเลน",
+                        "postal_code": "73130"
+                    },
+                    {
+                        "district": "พุทธมณฑล",
+                        "postal_code": "73170"
+                    },
+                    {
+                        "district": "สามพราน",
+                        "postal_code": "73110"
+                    }
+                ]
+            },
+            {
+                "name": "นครพนม",
+                "districts": [
+                    {
+                        "district": "เมืองนครพนม",
+                        "postal_code": "48000"
+                    },
+                    {
+                        "district": "ท่าอุเทน",
+                        "postal_code": "48120"
+                    },
+                    {
+                        "district": "ธาตุพนม",
+                        "postal_code": "48110"
+                    },
+                    {
+                        "district": "นาแก",
+                        "postal_code": "48130"
+                    },
+                    {
+                        "district": "นาทม",
+                        "postal_code": "48140"
+                    },
+                    {
+                        "district": "นาหว้า",
+                        "postal_code": "48180"
+                    },
+                    {
+                        "district": "บ้านแพง",
+                        "postal_code": "48140"
+                    },
+                    {
+                        "district": "ปลาปาก",
+                        "postal_code": "48160"
+                    },
+                    {
+                        "district": "โพนสวรรค์",
+                        "postal_code": "48190"
+                    },
+                    {
+                        "district": "เรณูนคร",
+                        "postal_code": "48170"
+                    },
+                    {
+                        "district": "วังยาง",
+                        "postal_code": "48130"
+                    },
+                    {
+                        "district": "ศรีสงคราม",
+                        "postal_code": "48150"
+                    }
+                ]
+            },
+            {
+                "name": "นครราชสีมา",
+                "districts": [
+                    {
+                        "district": "เมืองนครราชสีมา",
+                        "postal_code": "30000"
+                    },
+                    {
+                        "district": "แก้งสนามนาง",
+                        "postal_code": "30440"
+                    },
+                    {
+                        "district": "ขามทะเลสอ",
+                        "postal_code": "30280"
+                    },
+                    {
+                        "district": "ขามสะแกแสง",
+                        "postal_code": "30290"
+                    },
+                    {
+                        "district": "คง",
+                        "postal_code": "30260"
+                    },
+                    {
+                        "district": "ครบุรี",
+                        "postal_code": "30250"
+                    },
+                    {
+                        "district": "จักราช",
+                        "postal_code": "30230"
+                    },
+                    {
+                        "district": "เฉลิมพระเกียรติ",
+                        "postal_code": "30230"
+                    },
+                    {
+                        "district": "ชุมพวง",
+                        "postal_code": "30270"
+                    },
+                    {
+                        "district": "โชคชัย",
+                        "postal_code": "30190"
+                    },
+                    {
+                        "district": "ด่านขุนทด",
+                        "postal_code": "30210"
+                    },
+                    {
+                        "district": "เทพารักษ์",
+                        "postal_code": "30210"
+                    },
+                    {
+                        "district": "โนนแดง",
+                        "postal_code": "30360"
+                    },
+                    {
+                        "district": "โนนไทย",
+                        "postal_code": "30220"
+                    },
+                    {
+                        "district": "โนนสูง",
+                        "postal_code": "30160"
+                    },
+                    {
+                        "district": "บัวลาย",
+                        "postal_code": "30120"
+                    },
+                    {
+                        "district": "บัวใหญ่",
+                        "postal_code": "30120"
+                    },
+                    {
+                        "district": "บ้านเหลื่อม",
+                        "postal_code": "30350"
+                    },
+                    {
+                        "district": "ประทาย",
+                        "postal_code": "30180"
+                    },
+                    {
+                        "district": "ปักธงชัย",
+                        "postal_code": "30150"
+                    },
+                    {
+                        "district": "ปากช่อง",
+                        "postal_code": "30130"
+                    },
+                    {
+                        "district": "พระทองคำ",
+                        "postal_code": "30220"
+                    },
+                    {
+                        "district": "พิมาย",
+                        "postal_code": "30110"
+                    },
+                    {
+                        "district": "เมืองยาง",
+                        "postal_code": "30270"
+                    },
+                    {
+                        "district": "ลำทะเมนชัย",
+                        "postal_code": "30270"
+                    },
+                    {
+                        "district": "วังน้ำเขียว",
+                        "postal_code": "30370"
+                    },
+                    {
+                        "district": "สีคิ้ว",
+                        "postal_code": "30140"
+                    },
+                    {
+                        "district": "สีดา",
+                        "postal_code": "30430"
+                    },
+                    {
+                        "district": "สูงเนิน",
+                        "postal_code": "30170"
+                    },
+                    {
+                        "district": "เสิงสาง",
+                        "postal_code": "30330"
+                    },
+                    {
+                        "district": "หนองบุญมาก",
+                        "postal_code": "30410"
+                    },
+                    {
+                        "district": "ห้วยแถลง",
+                        "postal_code": "30240"
+                    }
+                ]
+            },
+            {
+                "name": "นครศรีธรรมราช",
+                "districts": [
+                    {
+                        "district": "เมืองนครศรีธรรมราช",
+                        "postal_code": "80000"
+                    },
+                    {
+                        "district": "ขนอม",
+                        "postal_code": "80210"
+                    },
+                    {
+                        "district": "จุฬาภรณ์",
+                        "postal_code": "80130"
+                    },
+                    {
+                        "district": "ฉวาง",
+                        "postal_code": "80150"
+                    },
+                    {
+                        "district": "เฉลิมพระเกียรติ",
+                        "postal_code": "80190"
+                    },
+                    {
+                        "district": "ชะอวด",
+                        "postal_code": "80180"
+                    },
+                    {
+                        "district": "ช้างกลาง",
+                        "postal_code": "80250"
+                    },
+                    {
+                        "district": "เชียรใหญ่",
+                        "postal_code": "80190"
+                    },
+                    {
+                        "district": "ถ้ำพรรณรา",
+                        "postal_code": "80260"
+                    },
+                    {
+                        "district": "ท่าศาลา",
+                        "postal_code": "80160"
+                    },
+                    {
+                        "district": "ทุ่งใหญ่",
+                        "postal_code": "80240"
+                    },
+                    {
+                        "district": "ทุ่งสง",
+                        "postal_code": "80110"
+                    },
+                    {
+                        "district": "นบพิตำ",
+                        "postal_code": "80160"
+                    },
+                    {
+                        "district": "นาบอน",
+                        "postal_code": "80220"
+                    },
+                    {
+                        "district": "บางขัน",
+                        "postal_code": "80360"
+                    },
+                    {
+                        "district": "ปากพนัง",
+                        "postal_code": "80140"
+                    },
+                    {
+                        "district": "พรหมคีรี",
+                        "postal_code": "80320"
+                    },
+                    {
+                        "district": "พระพรหม",
+                        "postal_code": "80000"
+                    },
+                    {
+                        "district": "พิปูน",
+                        "postal_code": "80270"
+                    },
+                    {
+                        "district": "ร่อนพิบูลย์",
+                        "postal_code": "80130"
+                    },
+                    {
+                        "district": "ลานสกา",
+                        "postal_code": "80230"
+                    },
+                    {
+                        "district": "สิชล",
+                        "postal_code": "80120"
+                    },
+                    {
+                        "district": "หัวไทร",
+                        "postal_code": "80170"
+                    }
+                ]
+            },
+            {
+                "name": "นครสวรรค์",
+                "districts": [
+                    {
+                        "district": "เมืองนครสวรรค์",
+                        "postal_code": "60000"
+                    },
+                    {
+                        "district": "เก้าเลี้ยว",
+                        "postal_code": "60230"
+                    },
+                    {
+                        "district": "โกรกพระ",
+                        "postal_code": "60170"
+                    },
+                    {
+                        "district": "ชุมตาบง",
+                        "postal_code": "60150"
+                    },
+                    {
+                        "district": "ชุมแสง",
+                        "postal_code": "60120"
+                    },
+                    {
+                        "district": "ตากฟ้า",
+                        "postal_code": "60190"
+                    },
+                    {
+                        "district": "ตาคลี",
+                        "postal_code": "60140"
+                    },
+                    {
+                        "district": "ท่าตะโก",
+                        "postal_code": "60160"
+                    },
+                    {
+                        "district": "บรรพตพิสัย",
+                        "postal_code": "60180"
+                    },
+                    {
+                        "district": "พยุหะคีรี",
+                        "postal_code": "60130"
+                    },
+                    {
+                        "district": "ไพศาลี",
+                        "postal_code": "60220"
+                    },
+                    {
+                        "district": "แม่เปิน",
+                        "postal_code": "60150"
+                    },
+                    {
+                        "district": "แม่วงก์",
+                        "postal_code": "60150"
+                    },
+                    {
+                        "district": "ลาดยาว",
+                        "postal_code": "60150"
+                    },
+                    {
+                        "district": "หนองบัว",
+                        "postal_code": "60110"
+                    }
+                ]
+            },
+            {
+                "name": "นนทบุรี",
+                "districts": [
+                    {
+                        "district": "เมืองนนทบุรี",
+                        "postal_code": "11000"
+                    },
+                    {
+                        "district": "ไทรน้อย",
+                        "postal_code": "11150"
+                    },
+                    {
+                        "district": "บางกรวย",
+                        "postal_code": "11130"
+                    },
+                    {
+                        "district": "บางบัวทอง",
+                        "postal_code": "11110"
+                    },
+                    {
+                        "district": "บางใหญ่",
+                        "postal_code": "11140"
+                    },
+                    {
+                        "district": "ปากเกร็ด",
+                        "postal_code": "11120"
+                    }
+                ]
+            },
+            {
+                "name": "นราธิวาส",
+                "districts": [
+                    {
+                        "district": "เมืองนราธิวาส",
+                        "postal_code": "96000"
+                    },
+                    {
+                        "district": "จะแนะ",
+                        "postal_code": "96220"
+                    },
+                    {
+                        "district": "เจาะไอร้อง",
+                        "postal_code": "96130"
+                    },
+                    {
+                        "district": "ตากใบ",
+                        "postal_code": "96110"
+                    },
+                    {
+                        "district": "บาเจาะ",
+                        "postal_code": "96170"
+                    },
+                    {
+                        "district": "ยี่งอ",
+                        "postal_code": "96180"
+                    },
+                    {
+                        "district": "ระแงะ",
+                        "postal_code": "96130"
+                    },
+                    {
+                        "district": "รือเสาะ",
+                        "postal_code": "96150"
+                    },
+                    {
+                        "district": "แว้ง",
+                        "postal_code": "96160"
+                    },
+                    {
+                        "district": "ศรีสาคร",
+                        "postal_code": "96210"
+                    },
+                    {
+                        "district": "สุคิริน",
+                        "postal_code": "96190"
+                    },
+                    {
+                        "district": "สุไหงโก-ลก",
+                        "postal_code": "96120"
+                    },
+                    {
+                        "district": "สุไหงปาดี",
+                        "postal_code": "96140"
+                    }
+                ]
+            },
+            {
+                "name": "น่าน",
+                "districts": [
+                    {
+                        "district": "เมืองน่าน",
+                        "postal_code": "55000"
+                    },
+                    {
+                        "district": "เฉลิมพระเกียรติ",
+                        "postal_code": "55130"
+                    },
+                    {
+                        "district": "เชียงกลาง",
+                        "postal_code": "55160"
+                    },
+                    {
+                        "district": "ท่าวังผา",
+                        "postal_code": "55140"
+                    },
+                    {
+                        "district": "ทุ่งช้าง",
+                        "postal_code": "55130"
+                    },
+                    {
+                        "district": "นาน้อย",
+                        "postal_code": "55150"
+                    },
+                    {
+                        "district": "นาหมื่น",
+                        "postal_code": "55180"
+                    },
+                    {
+                        "district": "บ่อเกลือ",
+                        "postal_code": "55220"
+                    },
+                    {
+                        "district": "บ้านหลวง",
+                        "postal_code": "55190"
+                    },
+                    {
+                        "district": "ปัว",
+                        "postal_code": "55120"
+                    },
+                    {
+                        "district": "ภูเพียง",
+                        "postal_code": "55000"
+                    },
+                    {
+                        "district": "แม่จริม",
+                        "postal_code": "55170"
+                    },
+                    {
+                        "district": "เวียงสา",
+                        "postal_code": "55110"
+                    },
+                    {
+                        "district": "สองแคว",
+                        "postal_code": "55160"
+                    },
+                    {
+                        "district": "สันติสุข",
+                        "postal_code": "55210"
+                    }
+                ]
+            },
+            {
+                "name": "บึงกาฬ",
+                "districts": [
+                    {
+                        "district": "เมืองบึงกาฬ",
+                        "postal_code": "38000"
+                    },
+                    {
+                        "district": "เซกา",
+                        "postal_code": "38150"
+                    },
+                    {
+                        "district": "โซ่พิสัย",
+                        "postal_code": "38170"
+                    },
+                    {
+                        "district": "บึงโขงหลง",
+                        "postal_code": "38220"
+                    },
+                    {
+                        "district": "บุ่งคล้า",
+                        "postal_code": "38000"
+                    },
+                    {
+                        "district": "ปากคาด",
+                        "postal_code": "38190"
+                    },
+                    {
+                        "district": "พรเจริญ",
+                        "postal_code": "38180"
+                    },
+                    {
+                        "district": "ศรีวิไล",
+                        "postal_code": "38210"
+                    }
+                ]
+            },
+            {
+                "name": "บุรีรัมย์",
+                "districts": [
+                    {
+                        "district": "เมืองบุรีรัมย์",
+                        "postal_code": "31000"
+                    },
+                    {
+                        "district": "กระสัง",
+                        "postal_code": "31160"
+                    },
+                    {
+                        "district": "คูเมือง",
+                        "postal_code": "31190"
+                    },
+                    {
+                        "district": "แคนดง",
+                        "postal_code": "31150"
+                    },
+                    {
+                        "district": "เฉลิมพระเกียรติ",
+                        "postal_code": "31110"
+                    },
+                    {
+                        "district": "ชำนิ",
+                        "postal_code": "31110"
+                    },
+                    {
+                        "district": "นาโพธิ์",
+                        "postal_code": "31230"
+                    },
+                    {
+                        "district": "นางรอง",
+                        "postal_code": "31110"
+                    },
+                    {
+                        "district": "โนนดินแดง",
+                        "postal_code": "31260"
+                    },
+                    {
+                        "district": "โนนสุวรรณ",
+                        "postal_code": "31110"
+                    },
+                    {
+                        "district": "บ้านกรวด",
+                        "postal_code": "31180"
+                    },
+                    {
+                        "district": "บ้านด่าน",
+                        "postal_code": "31000"
+                    },
+                    {
+                        "district": "บ้านใหม่ไชยพจน์",
+                        "postal_code": "31120"
+                    },
+                    {
+                        "district": "ประโคนชัย",
+                        "postal_code": "31140"
+                    },
+                    {
+                        "district": "ปะคำ",
+                        "postal_code": "31220"
+                    },
+                    {
+                        "district": "พลับพลาชัย",
+                        "postal_code": "31250"
+                    },
+                    {
+                        "district": "พุทไธสง",
+                        "postal_code": "31120"
+                    },
+                    {
+                        "district": "ละหานทราย",
+                        "postal_code": "31170"
+                    },
+                    {
+                        "district": "ลำปลายมาศ",
+                        "postal_code": "31130"
+                    },
+                    {
+                        "district": "สตึก",
+                        "postal_code": "31150"
+                    },
+                    {
+                        "district": "หนองกี่",
+                        "postal_code": "31210"
+                    },
+                    {
+                        "district": "หนองหงส์",
+                        "postal_code": "31240"
+                    },
+                    {
+                        "district": "ห้วยราช",
+                        "postal_code": "31000"
+                    }
+                ]
+            },
+            {
+                "name": "ปทุมธานี",
+                "districts": [
+                    {
+                        "district": "เมืองปทุมธานี",
+                        "postal_code": "12000"
+                    },
+                    {
+                        "district": "คลองหลวง",
+                        "postal_code": "12120"
+                    },
+                    {
+                        "district": "ธัญบุรี",
+                        "postal_code": "12110"
+                    },
+                    {
+                        "district": "ลาดหลุมแก้ว",
+                        "postal_code": "12140"
+                    },
+                    {
+                        "district": "ลำลูกกา",
+                        "postal_code": "12150"
+                    },
+                    {
+                        "district": "สามโคก",
+                        "postal_code": "12160"
+                    },
+                    {
+                        "district": "หนองเสือ",
+                        "postal_code": "12170"
+                    }
+                ]
+            },
+            {
+                "name": "ประจวบคีรีขันธ์",
+                "districts": [
+                    {
+                        "district": "เมืองประจวบคีรีขันธ์",
+                        "postal_code": "77000"
+                    },
+                    {
+                        "district": "กุยบุรี",
+                        "postal_code": "77150"
+                    },
+                    {
+                        "district": "ทับสะแก",
+                        "postal_code": "77130"
+                    },
+                    {
+                        "district": "บางสะพาน",
+                        "postal_code": "77140"
+                    },
+                    {
+                        "district": "บางสะพานน้อย",
+                        "postal_code": "77170"
+                    },
+                    {
+                        "district": "ปราณบุรี",
+                        "postal_code": "77120"
+                    },
+                    {
+                        "district": "สามร้อยยอด",
+                        "postal_code": "77180"
+                    },
+                    {
+                        "district": "หัวหิน",
+                        "postal_code": "77110"
+                    }
+                ]
+            },
+            {
+                "name": "ปราจีนบุรี",
+                "districts": [
+                    {
+                        "district": "เมืองปราจีนบุรี",
+                        "postal_code": "25000"
+                    },
+                    {
+                        "district": "กบินทร์บุรี",
+                        "postal_code": "25110"
+                    },
+                    {
+                        "district": "นาดี",
+                        "postal_code": "25220"
+                    },
+                    {
+                        "district": "บ้านสร้าง",
+                        "postal_code": "25150"
+                    },
+                    {
+                        "district": "ประจันตคาม",
+                        "postal_code": "25130"
+                    },
+                    {
+                        "district": "ศรีมหาโพธิ",
+                        "postal_code": "25140"
+                    },
+                    {
+                        "district": "ศรีมโหสถ",
+                        "postal_code": "25190"
+                    }
+                ]
+            },
+            {
+                "name": "ปัตตานี",
+                "districts": [
+                    {
+                        "district": "เมืองปัตตานี",
+                        "postal_code": "94000"
+                    },
+                    {
+                        "district": "กะพ้อ",
+                        "postal_code": "94230"
+                    },
+                    {
+                        "district": "โคกโพธิ์",
+                        "postal_code": "94120"
+                    },
+                    {
+                        "district": "ทุ่งยางแดง",
+                        "postal_code": "94140"
+                    },
+                    {
+                        "district": "ปะนาเระ",
+                        "postal_code": "94130"
+                    },
+                    {
+                        "district": "มายอ",
+                        "postal_code": "94140"
+                    },
+                    {
+                        "district": "แม่ลาน",
+                        "postal_code": "94180"
+                    },
+                    {
+                        "district": "ไม้แก่น",
+                        "postal_code": "94220"
+                    },
+                    {
+                        "district": "ยะรัง",
+                        "postal_code": "94160"
+                    },
+                    {
+                        "district": "ยะหริ่ง",
+                        "postal_code": "94150"
+                    },
+                    {
+                        "district": "สายบุรี",
+                        "postal_code": "94110"
+                    },
+                    {
+                        "district": "หนองจิก",
+                        "postal_code": "94170"
+                    }
+                ]
+            },
+            {
+                "name": "พระนครศรีอยุธยา",
+                "districts": [
+                    {
+                        "district": "พระนครศรีอยุธยา",
+                        "postal_code": "13000"
+                    },
+                    {
+                        "district": "ท่าเรือ",
+                        "postal_code": "13130"
+                    },
+                    {
+                        "district": "นครหลวง",
+                        "postal_code": "13260"
+                    },
+                    {
+                        "district": "บางซ้าย",
+                        "postal_code": "13270"
+                    },
+                    {
+                        "district": "บางไทร",
+                        "postal_code": "13190"
+                    },
+                    {
+                        "district": "บางบาล",
+                        "postal_code": "13250"
+                    },
+                    {
+                        "district": "บางปะหัน",
+                        "postal_code": "13220"
+                    },
+                    {
+                        "district": "บางปะอิน",
+                        "postal_code": "13160"
+                    },
+                    {
+                        "district": "บ้านแพรก",
+                        "postal_code": "13240"
+                    },
+                    {
+                        "district": "ผักไห่",
+                        "postal_code": "13120"
+                    },
+                    {
+                        "district": "ภาชี",
+                        "postal_code": "13140"
+                    },
+                    {
+                        "district": "มหาราช",
+                        "postal_code": "13150"
+                    },
+                    {
+                        "district": "ลาดบัวหลวง",
+                        "postal_code": "13230"
+                    },
+                    {
+                        "district": "วังน้อย",
+                        "postal_code": "13170"
+                    },
+                    {
+                        "district": "เสนา",
+                        "postal_code": "13110"
+                    },
+                    {
+                        "district": "อุทัย",
+                        "postal_code": "13210"
+                    }
+                ]
+            },
+            {
+                "name": "พะเยา",
+                "districts": [
+                    {
+                        "district": "เมืองพะเยา",
+                        "postal_code": "56000"
+                    },
+                    {
+                        "district": "จุน",
+                        "postal_code": "56150"
+                    },
+                    {
+                        "district": "เชียงคำ",
+                        "postal_code": "56110"
+                    },
+                    {
+                        "district": "เชียงม่วน",
+                        "postal_code": "56160"
+                    },
+                    {
+                        "district": "ดอกคำใต้",
+                        "postal_code": "56120"
+                    },
+                    {
+                        "district": "ปง",
+                        "postal_code": "56140"
+                    },
+                    {
+                        "district": "ภูกามยาว",
+                        "postal_code": "56000"
+                    },
+                    {
+                        "district": "ภูซาง",
+                        "postal_code": "56110"
+                    },
+                    {
+                        "district": "แม่ใจ",
+                        "postal_code": "56130"
+                    }
+                ]
+            },
+            {
+                "name": "พังงา",
+                "districts": [
+                    {
+                        "district": "เมืองพังงา",
+                        "postal_code": "82000"
+                    },
+                    {
+                        "district": "กะปง",
+                        "postal_code": "82170"
+                    },
+                    {
+                        "district": "เกาะยาว",
+                        "postal_code": "82160"
+                    },
+                    {
+                        "district": "คุระบุรี",
+                        "postal_code": "82150"
+                    },
+                    {
+                        "district": "ตะกั่วทุ่ง",
+                        "postal_code": "82130"
+                    },
+                    {
+                        "district": "ตะกั่วป่า",
+                        "postal_code": "82110"
+                    },
+                    {
+                        "district": "ทับปุด",
+                        "postal_code": "82180"
+                    },
+                    {
+                        "district": "ท้ายเหมือง",
+                        "postal_code": "82120"
+                    }
+                ]
+            },
+            {
+                "name": "พัทลุง",
+                "districts": [
+                    {
+                        "district": "เมืองพัทลุง",
+                        "postal_code": "93000"
+                    },
+                    {
+                        "district": "กงหรา",
+                        "postal_code": "93180"
+                    },
+                    {
+                        "district": "เขาชัยสน",
+                        "postal_code": "93130"
+                    },
+                    {
+                        "district": "ควนขนุน",
+                        "postal_code": "93110"
+                    },
+                    {
+                        "district": "ตะโหมด",
+                        "postal_code": "93160"
+                    },
+                    {
+                        "district": "บางแก้ว",
+                        "postal_code": "93140"
+                    },
+                    {
+                        "district": "ปากพะยูน",
+                        "postal_code": "93120"
+                    },
+                    {
+                        "district": "ป่าบอน",
+                        "postal_code": "93170"
+                    },
+                    {
+                        "district": "ป่าพะยอม",
+                        "postal_code": "93210"
+                    },
+                    {
+                        "district": "ศรีนครินทร์",
+                        "postal_code": "93000"
+                    },
+                    {
+                        "district": "ศรีบรรพต",
+                        "postal_code": "93190"
+                    }
+                ]
+            },
+            {
+                "name": "พิจิตร",
+                "districts": [
+                    {
+                        "district": "เมืองพิจิตร",
+                        "postal_code": "66000"
+                    },
+                    {
+                        "district": "ดงเจริญ",
+                        "postal_code": "66210"
+                    },
+                    {
+                        "district": "ตะพานหิน",
+                        "postal_code": "66110"
+                    },
+                    {
+                        "district": "ทับคล้อ",
+                        "postal_code": "66150"
+                    },
+                    {
+                        "district": "บางมูลนาก",
+                        "postal_code": "66120"
+                    },
+                    {
+                        "district": "บึงนาราง",
+                        "postal_code": "66130"
+                    },
+                    {
+                        "district": "โพทะเล",
+                        "postal_code": "66130"
+                    },
+                    {
+                        "district": "โพธิ์ประทับช้าง",
+                        "postal_code": "66190"
+                    },
+                    {
+                        "district": "วชิรบารมี",
+                        "postal_code": "66140"
+                    },
+                    {
+                        "district": "วังทรายพูน",
+                        "postal_code": "66180"
+                    },
+                    {
+                        "district": "สากเหล็ก",
+                        "postal_code": "66160"
+                    },
+                    {
+                        "district": "สามง่าม",
+                        "postal_code": "66140"
+                    }
+                ]
+            },
+            {
+                "name": "พิษณุโลก",
+                "districts": [
+                    {
+                        "district": "เมืองพิษณุโลก",
+                        "postal_code": "65000"
+                    },
+                    {
+                        "district": "นครไทย",
+                        "postal_code": "65120"
+                    },
+                    {
+                        "district": "ชาติตระการ",
+                        "postal_code": "65170"
+                    },
+                    {
+                        "district": "เนินมะปราง",
+                        "postal_code": "65190"
+                    },
+                    {
+                        "district": "บางกระทุ่ม",
+                        "postal_code": "65110"
+                    },
+                    {
+                        "district": "บางระกำ",
+                        "postal_code": "65140"
+                    },
+                    {
+                        "district": "พรหมพิราม",
+                        "postal_code": "65150"
+                    },
+                    {
+                        "district": "วังทอง",
+                        "postal_code": "65130"
+                    },
+                    {
+                        "district": "วัดโบสถ์",
+                        "postal_code": "65160"
+                    }
+                ]
+            },
+            {
+                "name": "เพชรบุรี",
+                "districts": [
+                    {
+                        "district": "เมืองเพชรบุรี",
+                        "postal_code": "76000"
+                    },
+                    {
+                        "district": "แก่งกระจาน",
+                        "postal_code": "76170"
+                    },
+                    {
+                        "district": "เขาย้อย",
+                        "postal_code": "76140"
+                    },
+                    {
+                        "district": "ชะอำ",
+                        "postal_code": "76120"
+                    },
+                    {
+                        "district": "ท่ายาง",
+                        "postal_code": "76130"
+                    },
+                    {
+                        "district": "บ้านลาด",
+                        "postal_code": "76150"
+                    },
+                    {
+                        "district": "บ้านแหลม",
+                        "postal_code": "76110"
+                    },
+                    {
+                        "district": "หนองหญ้าปล้อง",
+                        "postal_code": "76160"
+                    }
+                ]
+            },
+            {
+                "name": "เพชรบูรณ์",
+                "districts": [
+                    {
+                        "district": "เมืองเพชรบูรณ์",
+                        "postal_code": "67000"
+                    },
+                    {
+                        "district": "เขาค้อ",
+                        "postal_code": "67270"
+                    },
+                    {
+                        "district": "ชนแดน",
+                        "postal_code": "67150"
+                    },
+                    {
+                        "district": "น้ำหนาว",
+                        "postal_code": "67260"
+                    },
+                    {
+                        "district": "บึงสามพัน",
+                        "postal_code": "67160"
+                    },
+                    {
+                        "district": "วังโป่ง",
+                        "postal_code": "67240"
+                    },
+                    {
+                        "district": "วิเชียรบุรี",
+                        "postal_code": "67130"
+                    },
+                    {
+                        "district": "ศรีเทพ",
+                        "postal_code": "67170"
+                    },
+                    {
+                        "district": "หนองไผ่",
+                        "postal_code": "67140"
+                    },
+                    {
+                        "district": "หล่มเก่า",
+                        "postal_code": "67120"
+                    },
+                    {
+                        "district": "หล่มสัก",
+                        "postal_code": "67110"
+                    }
+                ]
+            },
+            {
+                "name": "แพร่",
+                "districts": [
+                    {
+                        "district": "เมืองแพร่",
+                        "postal_code": "54000"
+                    },
+                    {
+                        "district": "เด่นชัย",
+                        "postal_code": "54110"
+                    },
+                    {
+                        "district": "ร้องกวาง",
+                        "postal_code": "54140"
+                    },
+                    {
+                        "district": "ลอง",
+                        "postal_code": "54150"
+                    },
+                    {
+                        "district": "วังชิ้น",
+                        "postal_code": "54160"
+                    },
+                    {
+                        "district": "สอง",
+                        "postal_code": "54120"
+                    },
+                    {
+                        "district": "สูงเม่น",
+                        "postal_code": "54130"
+                    },
+                    {
+                        "district": "หนองม่วงไข่",
+                        "postal_code": "54170"
+                    }
+                ]
+            },
+            {
+                "name": "ภูเก็ต",
+                "districts": [
+                    {
+                        "district": "เมืองภูเก็ต",
+                        "postal_code": "83000"
+                    },
+                    {
+                        "district": "กะทู้",
+                        "postal_code": "83120"
+                    },
+                    {
+                        "district": "ถลาง",
+                        "postal_code": "83110"
+                    }
+                ]
+            },
+            {
+                "name": "มหาสารคาม",
+                "districts": [
+                    {
+                        "district": "เมืองมหาสารคาม",
+                        "postal_code": "44000"
+                    },
+                    {
+                        "district": "กันทรวิชัย",
+                        "postal_code": "44150"
+                    },
+                    {
+                        "district": "กุดรัง",
+                        "postal_code": "44130"
+                    },
+                    {
+                        "district": "แกดำ",
+                        "postal_code": "44190"
+                    },
+                    {
+                        "district": "โกสุมพิสัย",
+                        "postal_code": "44140"
+                    },
+                    {
+                        "district": "ชื่นชม",
+                        "postal_code": "44160"
+                    },
+                    {
+                        "district": "เชียงยืน",
+                        "postal_code": "44160"
+                    },
+                    {
+                        "district": "นาเชือก",
+                        "postal_code": "44170"
+                    },
+                    {
+                        "district": "นาดูน",
+                        "postal_code": "44180"
+                    },
+                    {
+                        "district": "บรบือ",
+                        "postal_code": "44130"
+                    },
+                    {
+                        "district": "พยัคฆภูมิพิสัย",
+                        "postal_code": "44110"
+                    },
+                    {
+                        "district": "ยางสีสุราช",
+                        "postal_code": "44210"
+                    },
+                    {
+                        "district": "วาปีปทุม",
+                        "postal_code": "44120"
+                    }
+                ]
+            },
+            {
+                "name": "มุกดาหาร",
+                "districts": [
+                    {
+                        "district": "เมืองมุกดาหาร",
+                        "postal_code": "49000"
+                    },
+                    {
+                        "district": "คำชะอี",
+                        "postal_code": "49110"
+                    },
+                    {
+                        "district": "ดงหลวง",
+                        "postal_code": "49140"
+                    },
+                    {
+                        "district": "ดอนตาล",
+                        "postal_code": "49120"
+                    },
+                    {
+                        "district": "นิคมคำสร้อย",
+                        "postal_code": "49130"
+                    },
+                    {
+                        "district": "หนองสูง",
+                        "postal_code": "49160"
+                    },
+                    {
+                        "district": "หว้านใหญ่",
+                        "postal_code": "49150"
+                    }
+                ]
+            },
+            {
+                "name": "แม่ฮ่องสอน",
+                "districts": [
+                    {
+                        "district": "เมืองแม่ฮ่องสอน",
+                        "postal_code": "58000"
+                    },
+                    {
+                        "district": "ขุนยวม",
+                        "postal_code": "58140"
+                    },
+                    {
+                        "district": "ปางมะผ้า",
+                        "postal_code": "58150"
+                    },
+                    {
+                        "district": "ปาย",
+                        "postal_code": "58130"
+                    },
+                    {
+                        "district": "แม่ลาน้อย",
+                        "postal_code": "58120"
+                    },
+                    {
+                        "district": "แม่สะเรียง",
+                        "postal_code": "58110"
+                    },
+                    {
+                        "district": "สบเมย",
+                        "postal_code": "58110"
+                    }
+                ]
+            },
+            {
+                "name": "ยโสธร",
+                "districts": [
+                    {
+                        "district": "เมืองยโสธร",
+                        "postal_code": "35000"
+                    },
+                    {
+                        "district": "กุดชุม",
+                        "postal_code": "35140"
+                    },
+                    {
+                        "district": "ค้อวัง",
+                        "postal_code": "35160"
+                    },
+                    {
+                        "district": "คำเขื่อนแก้ว",
+                        "postal_code": "35110"
+                    },
+                    {
+                        "district": "ไทยเจริญ",
+                        "postal_code": "35120"
+                    },
+                    {
+                        "district": "ทรายมูล",
+                        "postal_code": "35170"
+                    },
+                    {
+                        "district": "ป่าติ้ว",
+                        "postal_code": "35150"
+                    },
+                    {
+                        "district": "มหาชนะชัย",
+                        "postal_code": "35130"
+                    },
+                    {
+                        "district": "เลิงนกทา",
+                        "postal_code": "35120"
+                    }
+                ]
+            },
+            {
+                "name": "ยะลา",
+                "districts": [
+                    {
+                        "district": "เมืองยะลา",
+                        "postal_code": "95000"
+                    },
+                    {
+                        "district": "กรงปินัง",
+                        "postal_code": "95000"
+                    },
+                    {
+                        "district": "กาบัง",
+                        "postal_code": "95120"
+                    },
+                    {
+                        "district": "ธารโต",
+                        "postal_code": "95150"
+                    },
+                    {
+                        "district": "บันนังสตา",
+                        "postal_code": "95130"
+                    },
+                    {
+                        "district": "เบตง",
+                        "postal_code": "95110"
+                    },
+                    {
+                        "district": "ยะหา",
+                        "postal_code": "95120"
+                    },
+                    {
+                        "district": "รามัน",
+                        "postal_code": "95140"
+                    }
+                ]
+            },
+            {
+                "name": "ร้อยเอ็ด",
+                "districts": [
+                    {
+                        "district": "เมืองร้อยเอ็ด",
+                        "postal_code": "45000"
+                    },
+                    {
+                        "district": "เกษตรวิสัย",
+                        "postal_code": "45150"
+                    },
+                    {
+                        "district": "จตุรพักตรพิมาน",
+                        "postal_code": "45180"
+                    },
+                    {
+                        "district": "จังหาร",
+                        "postal_code": "45000"
+                    },
+                    {
+                        "district": "เชียงขวัญ",
+                        "postal_code": "45000"
+                    },
+                    {
+                        "district": "ทุ่งเขาหลวง",
+                        "postal_code": "45170"
+                    },
+                    {
+                        "district": "ธวัชบุรี",
+                        "postal_code": "45170"
+                    },
+                    {
+                        "district": "ปทุมรัตต์",
+                        "postal_code": "45190"
+                    },
+                    {
+                        "district": "พนมไพร",
+                        "postal_code": "45140"
+                    },
+                    {
+                        "district": "โพธิ์ชัย",
+                        "postal_code": "45230"
+                    },
+                    {
+                        "district": "โพนทราย",
+                        "postal_code": "45240"
+                    },
+                    {
+                        "district": "โพนทอง",
+                        "postal_code": "45110"
+                    },
+                    {
+                        "district": "เมยวดี",
+                        "postal_code": "45250"
+                    },
+                    {
+                        "district": "เมืองสรวง",
+                        "postal_code": "45220"
+                    },
+                    {
+                        "district": "ศรีสมเด็จ",
+                        "postal_code": "45260"
+                    },
+                    {
+                        "district": "เสลภูมิ",
+                        "postal_code": "45120"
+                    },
+                    {
+                        "district": "สุวรรณภูมิ",
+                        "postal_code": "45130"
+                    },
+                    {
+                        "district": "หนองพอก",
+                        "postal_code": "45210"
+                    },
+                    {
+                        "district": "หนองฮี",
+                        "postal_code": "45140"
+                    },
+                    {
+                        "district": "อาจสามารถ",
+                        "postal_code": "45160"
+                    }
+                ]
+            },
+            {
+                "name": "ระนอง",
+                "districts": [
+                    {
+                        "district": "เมืองระนอง",
+                        "postal_code": "85000"
+                    },
+                    {
+                        "district": "กระบุรี",
+                        "postal_code": "85110"
+                    },
+                    {
+                        "district": "กะเปอร์",
+                        "postal_code": "85120"
+                    },
+                    {
+                        "district": "ละอุ่น",
+                        "postal_code": "85130"
+                    },
+                    {
+                        "district": "สุขสำราญ",
+                        "postal_code": "85120"
+                    }
+                ]
+            },
+            {
+                "name": "ระยอง",
+                "districts": [
+                    {
+                        "district": "เมืองระยอง",
+                        "postal_code": "21000"
+                    },
+                    {
+                        "district": "แกลง",
+                        "postal_code": "21110"
+                    },
+                    {
+                        "district": "เขาชะเมา",
+                        "postal_code": "21110"
+                    },
+                    {
+                        "district": "นิคมพัฒนา",
+                        "postal_code": "21180"
+                    },
+                    {
+                        "district": "บ้านค่าย",
+                        "postal_code": "21120"
+                    },
+                    {
+                        "district": "บ้านฉาง",
+                        "postal_code": "21130"
+                    },
+                    {
+                        "district": "ปลวกแดง",
+                        "postal_code": "21140"
+                    },
+                    {
+                        "district": "วังจันทร์",
+                        "postal_code": "21210"
+                    }
+                ]
+            },
+            {
+                "name": "ราชบุรี",
+                "districts": [
+                    {
+                        "district": "เมืองราชบุรี",
+                        "postal_code": "70000"
+                    },
+                    {
+                        "district": "จอมบึง",
+                        "postal_code": "70150"
+                    },
+                    {
+                        "district": "ดำเนินสะดวก",
+                        "postal_code": "70130"
+                    },
+                    {
+                        "district": "บางแพ",
+                        "postal_code": "70160"
+                    },
+                    {
+                        "district": "บ้านคา",
+                        "postal_code": "70180"
+                    },
+                    {
+                        "district": "บ้านโป่ง",
+                        "postal_code": "70110"
+                    },
+                    {
+                        "district": "ปากท่อ",
+                        "postal_code": "70140"
+                    },
+                    {
+                        "district": "โพธาราม",
+                        "postal_code": "70120"
+                    },
+                    {
+                        "district": "วัดเพลง",
+                        "postal_code": "70170"
+                    },
+                    {
+                        "district": "สวนผึ้ง",
+                        "postal_code": "70180"
+                    }
+                ]
+            },
+            {
+                "name": "ลพบุรี",
+                "districts": [
+                    {
+                        "district": "เมืองลพบุรี",
+                        "postal_code": "15000"
+                    },
+                    {
+                        "district": "โคกเจริญ",
+                        "postal_code": "15250"
+                    },
+                    {
+                        "district": "โคกสำโรง",
+                        "postal_code": "15120"
+                    },
+                    {
+                        "district": "ชัยบาดาล",
+                        "postal_code": "15130"
+                    },
+                    {
+                        "district": "ท่าวุ้ง",
+                        "postal_code": "15150"
+                    },
+                    {
+                        "district": "ท่าหลวง",
+                        "postal_code": "15230"
+                    },
+                    {
+                        "district": "บ้านหมี่",
+                        "postal_code": "15110"
+                    },
+                    {
+                        "district": "พัฒนานิคม",
+                        "postal_code": "15140"
+                    },
+                    {
+                        "district": "ลำสนธิ",
+                        "postal_code": "15190"
+                    },
+                    {
+                        "district": "สระโบสถ์",
+                        "postal_code": "15240"
+                    },
+                    {
+                        "district": "หนองม่วง",
+                        "postal_code": "15170"
+                    }
+                ]
+            },
+            {
+                "name": "ลำปาง",
+                "districts": [
+                    {
+                        "district": "เมืองลำปาง",
+                        "postal_code": "52000"
+                    },
+                    {
+                        "district": "เกาะคา",
+                        "postal_code": "52130"
+                    },
+                    {
+                        "district": "งาว",
+                        "postal_code": "52110"
+                    },
+                    {
+                        "district": "แจ้ห่ม",
+                        "postal_code": "52120"
+                    },
+                    {
+                        "district": "เถิน",
+                        "postal_code": "52160"
+                    },
+                    {
+                        "district": "แม่ทะ",
+                        "postal_code": "52150"
+                    },
+                    {
+                        "district": "แม่พริก",
+                        "postal_code": "52180"
+                    },
+                    {
+                        "district": "เมืองปาน",
+                        "postal_code": "52240"
+                    },
+                    {
+                        "district": "แม่เมาะ",
+                        "postal_code": "52220"
+                    },
+                    {
+                        "district": "วังเหนือ",
+                        "postal_code": "52140"
+                    },
+                    {
+                        "district": "สบปราบ",
+                        "postal_code": "52170"
+                    },
+                    {
+                        "district": "เสริมงาม",
+                        "postal_code": "52210"
+                    },
+                    {
+                        "district": "ห้างฉัตร",
+                        "postal_code": "52190"
+                    }
+                ]
+            },
+            {
+                "name": "ลำพูน",
+                "districts": [
+                    {
+                        "district": "เมืองลำพูน",
+                        "postal_code": "51000"
+                    },
+                    {
+                        "district": "ทุ่งหัวช้าง",
+                        "postal_code": "51160"
+                    },
+                    {
+                        "district": "บ้านธิ",
+                        "postal_code": "51180"
+                    },
+                    {
+                        "district": "บ้านโฮ่ง",
+                        "postal_code": "51130"
+                    },
+                    {
+                        "district": "ป่าซาง",
+                        "postal_code": "51120"
+                    },
+                    {
+                        "district": "แม่ทา",
+                        "postal_code": "51140"
+                    },
+                    {
+                        "district": "ลี้",
+                        "postal_code": "51110"
+                    },
+                    {
+                        "district": "เวียงหนองล่อง",
+                        "postal_code": "51120"
+                    }
+                ]
+            },
+            {
+                "name": "เลย",
+                "districts": [
+                    {
+                        "district": "เมืองเลย",
+                        "postal_code": "42000"
+                    },
+                    {
+                        "district": "เชียงคาน",
+                        "postal_code": "42110"
+                    },
+                    {
+                        "district": "ด่านซ้าย",
+                        "postal_code": "42120"
+                    },
+                    {
+                        "district": "ท่าลี่",
+                        "postal_code": "42140"
+                    },
+                    {
+                        "district": "นาด้วง",
+                        "postal_code": "42210"
+                    },
+                    {
+                        "district": "นาแห้ว",
+                        "postal_code": "42170"
+                    },
+                    {
+                        "district": "ปากชม",
+                        "postal_code": "42150"
+                    },
+                    {
+                        "district": "ผาขาว",
+                        "postal_code": "42240"
+                    },
+                    {
+                        "district": "ภูกระดึง",
+                        "postal_code": "42180"
+                    },
+                    {
+                        "district": "ภูเรือ",
+                        "postal_code": "42160"
+                    },
+                    {
+                        "district": "ภูหลวง",
+                        "postal_code": "42230"
+                    },
+                    {
+                        "district": "วังสะพุง",
+                        "postal_code": "42130"
+                    },
+                    {
+                        "district": "หนองหิน",
+                        "postal_code": "42190"
+                    },
+                    {
+                        "district": "เอราวัณ",
+                        "postal_code": "42220"
+                    }
+                ]
+            },
+            {
+                "name": "ศรีสะเกษ",
+                "districts": [
+                    {
+                        "district": "เมืองศรีสะเกษ",
+                        "postal_code": "33000"
+                    },
+                    {
+                        "district": "กันทรลักษ์",
+                        "postal_code": "33110"
+                    },
+                    {
+                        "district": "กันทรารมย์",
+                        "postal_code": "33130"
+                    },
+                    {
+                        "district": "ขุขันธ์",
+                        "postal_code": "33140"
+                    },
+                    {
+                        "district": "ขุนหาญ",
+                        "postal_code": "33150"
+                    },
+                    {
+                        "district": "น้ำเกลี้ยง",
+                        "postal_code": "33130"
+                    },
+                    {
+                        "district": "โนนคูณ",
+                        "postal_code": "33250"
+                    },
+                    {
+                        "district": "บึงบูรพ์",
+                        "postal_code": "33220"
+                    },
+                    {
+                        "district": "เบญจลักษ์",
+                        "postal_code": "33110"
+                    },
+                    {
+                        "district": "ปรางค์กู่",
+                        "postal_code": "33170"
+                    },
+                    {
+                        "district": "พยุห์",
+                        "postal_code": "33230"
+                    },
+                    {
+                        "district": "โพธิ์ศรีสุวรรณ",
+                        "postal_code": "33120"
+                    },
+                    {
+                        "district": "ไพรบึง",
+                        "postal_code": "33180"
+                    },
+                    {
+                        "district": "ภูสิงห์",
+                        "postal_code": "33140"
+                    },
+                    {
+                        "district": "เมืองจันทร์",
+                        "postal_code": "33120"
+                    },
+                    {
+                        "district": "ยางชุมน้อย",
+                        "postal_code": "33190"
+                    },
+                    {
+                        "district": "ราษีไศล",
+                        "postal_code": "33160"
+                    },
+                    {
+                        "district": "วังหิน",
+                        "postal_code": "33270"
+                    },
+                    {
+                        "district": "ศรีรัตนะ",
+                        "postal_code": "33240"
+                    },
+                    {
+                        "district": "ศิลาลาด",
+                        "postal_code": "33160"
+                    },
+                    {
+                        "district": "ห้วยทับทัน",
+                        "postal_code": "33210"
+                    },
+                    {
+                        "district": "อุทุมพรพิสัย",
+                        "postal_code": "33120"
+                    }
+                ]
+            },
+            {
+                "name": "สกลนคร",
+                "districts": [
+                    {
+                        "district": "เมืองสกลนคร",
+                        "postal_code": "47000"
+                    },
+                    {
+                        "district": "กุดบาก",
+                        "postal_code": "47180"
+                    },
+                    {
+                        "district": "กุสุมาลย์",
+                        "postal_code": "47210"
+                    },
+                    {
+                        "district": "คำตากล้า",
+                        "postal_code": "47250"
+                    },
+                    {
+                        "district": "โคกศรีสุพรรณ",
+                        "postal_code": "47280"
+                    },
+                    {
+                        "district": "เจริญศิลป์",
+                        "postal_code": "47290"
+                    },
+                    {
+                        "district": "เต่างอย",
+                        "postal_code": "47260"
+                    },
+                    {
+                        "district": "นิคมน้ำอูน",
+                        "postal_code": "47270"
+                    },
+                    {
+                        "district": "บ้านม่วง",
+                        "postal_code": "47140"
+                    },
+                    {
+                        "district": "พรรณานิคม",
+                        "postal_code": "47130"
+                    },
+                    {
+                        "district": "พังโคน",
+                        "postal_code": "47160"
+                    },
+                    {
+                        "district": "โพนนาแก้ว",
+                        "postal_code": "47230"
+                    },
+                    {
+                        "district": "ภูพาน",
+                        "postal_code": "47180"
+                    },
+                    {
+                        "district": "วานรนิวาส",
+                        "postal_code": "47120"
+                    },
+                    {
+                        "district": "วาริชภูมิ",
+                        "postal_code": "47150"
+                    },
+                    {
+                        "district": "สว่างแดนดิน",
+                        "postal_code": "47110"
+                    },
+                    {
+                        "district": "ส่องดาว",
+                        "postal_code": "47190"
+                    },
+                    {
+                        "district": "อากาศอำนวย",
+                        "postal_code": "47170"
+                    }
+                ]
+            },
+            {
+                "name": "สงขลา",
+                "districts": [
+                    {
+                        "district": "เมืองสงขลา",
+                        "postal_code": "90000"
+                    },
+                    {
+                        "district": "กระแสสินธุ์",
+                        "postal_code": "90270"
+                    },
+                    {
+                        "district": "คลองหอยโข่ง",
+                        "postal_code": "90230"
+                    },
+                    {
+                        "district": "ควนเนียง",
+                        "postal_code": "90220"
+                    },
+                    {
+                        "district": "จะนะ",
+                        "postal_code": "90130"
+                    },
+                    {
+                        "district": "เทพา",
+                        "postal_code": "90150"
+                    },
+                    {
+                        "district": "นาทวี",
+                        "postal_code": "90160"
+                    },
+                    {
+                        "district": "นาหม่อม",
+                        "postal_code": "90310"
+                    },
+                    {
+                        "district": "บางกล่ำ",
+                        "postal_code": "90110"
+                    },
+                    {
+                        "district": "ระโนด",
+                        "postal_code": "90140"
+                    },
+                    {
+                        "district": "รัตภูมิ",
+                        "postal_code": "90180"
+                    },
+                    {
+                        "district": "สทิงพระ",
+                        "postal_code": "90190"
+                    },
+                    {
+                        "district": "สะเดา",
+                        "postal_code": "90120"
+                    },
+                    {
+                        "district": "สะบ้าย้อย",
+                        "postal_code": "90210"
+                    },
+                    {
+                        "district": "สิงหนคร",
+                        "postal_code": "90280"
+                    },
+                    {
+                        "district": "หาดใหญ่",
+                        "postal_code": "90110"
+                    }
+                ]
+            },
+            {
+                "name": "สตูล",
+                "districts": [
+                    {
+                        "district": "เมืองสตูล",
+                        "postal_code": "91000"
+                    },
+                    {
+                        "district": "ควนกาหลง",
+                        "postal_code": "91130"
+                    },
+                    {
+                        "district": "ควนโดน",
+                        "postal_code": "91160"
+                    },
+                    {
+                        "district": "ท่าแพ",
+                        "postal_code": "91150"
+                    },
+                    {
+                        "district": "ทุ่งหว้า",
+                        "postal_code": "91120"
+                    },
+                    {
+                        "district": "มะนัง",
+                        "postal_code": "91130"
+                    },
+                    {
+                        "district": "ละงู",
+                        "postal_code": "91110"
+                    }
+                ]
+            },
+            {
+                "name": "สมุทรปราการ",
+                "districts": [
+                    {
+                        "district": "เมืองสมุทรปราการ",
+                        "postal_code": "10270"
+                    },
+                    {
+                        "district": "บางบ่อ",
+                        "postal_code": "10560"
+                    },
+                    {
+                        "district": "บางพลี",
+                        "postal_code": "10540"
+                    },
+                    {
+                        "district": "บางเสาธง",
+                        "postal_code": "10570"
+                    },
+                    {
+                        "district": "พระประแดง",
+                        "postal_code": "10130"
+                    },
+                    {
+                        "district": "พระสมุทรเจดีย์",
+                        "postal_code": "10290"
+                    }
+                ]
+            },
+            {
+                "name": "สมุทรสงคราม",
+                "districts": [
+                    {
+                        "district": "เมืองสมุทรสงคราม",
+                        "postal_code": "75000"
+                    },
+                    {
+                        "district": "บางคนที",
+                        "postal_code": "75120"
+                    },
+                    {
+                        "district": "อัมพวา",
+                        "postal_code": "75110"
+                    }
+                ]
+            },
+            {
+                "name": "สมุทรสาคร",
+                "districts": [
+                    {
+                        "district": "เมืองสมุทรสาคร",
+                        "postal_code": "74000"
+                    },
+                    {
+                        "district": "กระทุ่มแบน",
+                        "postal_code": "74110"
+                    },
+                    {
+                        "district": "บ้านแพ้ว",
+                        "postal_code": "74120"
+                    }
+                ]
+            },
+            {
+                "name": "สระแก้ว",
+                "districts": [
+                    {
+                        "district": "เมืองสระแก้ว",
+                        "postal_code": "27000"
+                    },
+                    {
+                        "district": "เขาฉกรรจ์",
+                        "postal_code": "27000"
+                    },
+                    {
+                        "district": "คลองหาด",
+                        "postal_code": "27260"
+                    },
+                    {
+                        "district": "โคกสูง",
+                        "postal_code": "27120"
+                    },
+                    {
+                        "district": "ตาพระยา",
+                        "postal_code": "27180"
+                    },
+                    {
+                        "district": "วังน้ำเย็น",
+                        "postal_code": "27210"
+                    },
+                    {
+                        "district": "วังสมบูรณ์",
+                        "postal_code": "27250"
+                    },
+                    {
+                        "district": "วัฒนานคร",
+                        "postal_code": "27160"
+                    },
+                    {
+                        "district": "อรัญประเทศ",
+                        "postal_code": "27120"
+                    }
+                ]
+            },
+            {
+                "name": "สระบุรี",
+                "districts": [
+                    {
+                        "district": "เมืองสระบุรี",
+                        "postal_code": "18000"
+                    },
+                    {
+                        "district": "แก่งคอย",
+                        "postal_code": "18110"
+                    },
+                    {
+                        "district": "เฉลิมพระเกียรติ",
+                        "postal_code": "18000"
+                    },
+                    {
+                        "district": "ดอนพุด",
+                        "postal_code": "18210"
+                    },
+                    {
+                        "district": "บ้านหมอ",
+                        "postal_code": "18130"
+                    },
+                    {
+                        "district": "พระพุทธบาท",
+                        "postal_code": "18120"
+                    },
+                    {
+                        "district": "มวกเหล็ก",
+                        "postal_code": "18180"
+                    },
+                    {
+                        "district": "วังม่วง",
+                        "postal_code": "18220"
+                    },
+                    {
+                        "district": "วิหารแดง",
+                        "postal_code": "18150"
+                    },
+                    {
+                        "district": "เสาไห้",
+                        "postal_code": "18160"
+                    },
+                    {
+                        "district": "หนองแค",
+                        "postal_code": "18140"
+                    },
+                    {
+                        "district": "หนองแซง",
+                        "postal_code": "18170"
+                    },
+                    {
+                        "district": "หนองโดน",
+                        "postal_code": "18190"
+                    }
+                ]
+            },
+            {
+                "name": "สิงห์บุรี",
+                "districts": [
+                    {
+                        "district": "เมืองสิงห์บุรี",
+                        "postal_code": "16000"
+                    },
+                    {
+                        "district": "ค่ายบางระจัน",
+                        "postal_code": "16150"
+                    },
+                    {
+                        "district": "ท่าช้าง",
+                        "postal_code": "16140"
+                    },
+                    {
+                        "district": "บางระจัน",
+                        "postal_code": "16130"
+                    },
+                    {
+                        "district": "พรหมบุรี",
+                        "postal_code": "16120"
+                    },
+                    {
+                        "district": "อินทร์บุรี",
+                        "postal_code": "16110"
+                    }
+                ]
+            },
+            {
+                "name": "สุโขทัย",
+                "districts": [
+                    {
+                        "district": "เมืองสุโขทัย",
+                        "postal_code": "64000"
+                    },
+                    {
+                        "district": "กงไกรลาศ",
+                        "postal_code": "64170"
+                    },
+                    {
+                        "district": "คีรีมาศ",
+                        "postal_code": "64160"
+                    },
+                    {
+                        "district": "ทุ่งเสลี่ยม",
+                        "postal_code": "64150"
+                    },
+                    {
+                        "district": "บ้านด่านลานหอย",
+                        "postal_code": "64140"
+                    },
+                    {
+                        "district": "ศรีนคร",
+                        "postal_code": "64180"
+                    },
+                    {
+                        "district": "ศรีสัชนาลัย",
+                        "postal_code": "64130"
+                    },
+                    {
+                        "district": "ศรีสำโรง",
+                        "postal_code": "64120"
+                    },
+                    {
+                        "district": "สวรรคโลก",
+                        "postal_code": "64110"
+                    }
+                ]
+            },
+            {
+                "name": "สุพรรณบุรี",
+                "districts": [
+                    {
+                        "district": "เมืองสุพรรณบุรี",
+                        "postal_code": "72000"
+                    },
+                    {
+                        "district": "ดอนเจดีย์",
+                        "postal_code": "72170"
+                    },
+                    {
+                        "district": "ด่านช้าง",
+                        "postal_code": "72180"
+                    },
+                    {
+                        "district": "เดิมบางนางบวช",
+                        "postal_code": "72120"
+                    },
+                    {
+                        "district": "บางปลาม้า",
+                        "postal_code": "72150"
+                    },
+                    {
+                        "district": "ศรีประจันต์",
+                        "postal_code": "72140"
+                    },
+                    {
+                        "district": "สองพี่น้อง",
+                        "postal_code": "72110"
+                    },
+                    {
+                        "district": "สามชุก",
+                        "postal_code": "72130"
+                    },
+                    {
+                        "district": "หนองหญ้าไซ",
+                        "postal_code": "72240"
+                    },
+                    {
+                        "district": "อู่ทอง",
+                        "postal_code": "72160"
+                    }
+                ]
+            },
+            {
+                "name": "สุราษฎร์ธานี",
+                "districts": [
+                    {
+                        "district": "เมืองสุราษฎร์ธานี",
+                        "postal_code": "84000"
+                    },
+                    {
+                        "district": "กาญจนดิษฐ์",
+                        "postal_code": "84160"
+                    },
+                    {
+                        "district": "เกาะพะงัน",
+                        "postal_code": "84280"
+                    },
+                    {
+                        "district": "เกาะสมุย",
+                        "postal_code": "84140"
+                    },
+                    {
+                        "district": "คีรีรัฐนิคม",
+                        "postal_code": "84180"
+                    },
+                    {
+                        "district": "เคียนซา",
+                        "postal_code": "84260"
+                    },
+                    {
+                        "district": "ชัยบุรี",
+                        "postal_code": "84350"
+                    },
+                    {
+                        "district": "ไชยา",
+                        "postal_code": "84110"
+                    },
+                    {
+                        "district": "ดอนสัก",
+                        "postal_code": "84220"
+                    },
+                    {
+                        "district": "ท่าฉาง",
+                        "postal_code": "84150"
+                    },
+                    {
+                        "district": "ท่าชนะ",
+                        "postal_code": "84170"
+                    },
+                    {
+                        "district": "บ้านตาขุน",
+                        "postal_code": "84230"
+                    },
+                    {
+                        "district": "บ้านนาเดิม",
+                        "postal_code": "84240"
+                    },
+                    {
+                        "district": "บ้านนาสาร",
+                        "postal_code": "84120"
+                    },
+                    {
+                        "district": "พนม",
+                        "postal_code": "84250"
+                    },
+                    {
+                        "district": "พระแสง",
+                        "postal_code": "84210"
+                    },
+                    {
+                        "district": "พุนพิน",
+                        "postal_code": "84130"
+                    },
+                    {
+                        "district": "วิภาวดี",
+                        "postal_code": "84180"
+                    },
+                    {
+                        "district": "เวียงสระ",
+                        "postal_code": "84190"
+                    }
+                ]
+            },
+            {
+                "name": "สุรินทร์",
+                "districts": [
+                    {
+                        "district": "เมืองสุรินทร์",
+                        "postal_code": "32000"
+                    },
+                    {
+                        "district": "กาบเชิง",
+                        "postal_code": "32210"
+                    },
+                    {
+                        "district": "เขวาสินรินทร์",
+                        "postal_code": "32000"
+                    },
+                    {
+                        "district": "จอมพระ",
+                        "postal_code": "32180"
+                    },
+                    {
+                        "district": "ชุมพลบุรี",
+                        "postal_code": "32190"
+                    },
+                    {
+                        "district": "ท่าตูม",
+                        "postal_code": "32120"
+                    },
+                    {
+                        "district": "โนนนารายณ์",
+                        "postal_code": "32130"
+                    },
+                    {
+                        "district": "บัวเชด",
+                        "postal_code": "32230"
+                    },
+                    {
+                        "district": "ปราสาท",
+                        "postal_code": "32140"
+                    },
+                    {
+                        "district": "พนมดงรัก",
+                        "postal_code": "32140"
+                    },
+                    {
+                        "district": "รัตนบุรี",
+                        "postal_code": "32130"
+                    },
+                    {
+                        "district": "ลำดวน",
+                        "postal_code": "32220"
+                    },
+                    {
+                        "district": "ศีขรภูมิ",
+                        "postal_code": "32110"
+                    },
+                    {
+                        "district": "ศรีณรงค์",
+                        "postal_code": "32150"
+                    },
+                    {
+                        "district": "สนม",
+                        "postal_code": "32160"
+                    },
+                    {
+                        "district": "สังขะ",
+                        "postal_code": "32150"
+                    },
+                    {
+                        "district": "สำโรงทาบ",
+                        "postal_code": "32170"
+                    }
+                ]
+            },
+            {
+                "name": "หนองคาย",
+                "districts": [
+                    {
+                        "district": "เมืองหนองคาย",
+                        "postal_code": "43000"
+                    },
+                    {
+                        "district": "ท่าบ่อ",
+                        "postal_code": "43110"
+                    },
+                    {
+                        "district": "เฝ้าไร่",
+                        "postal_code": "43120"
+                    },
+                    {
+                        "district": "โพธิ์ตาก",
+                        "postal_code": "43130"
+                    },
+                    {
+                        "district": "โพนพิสัย",
+                        "postal_code": "43120"
+                    },
+                    {
+                        "district": "รัตนวาปี",
+                        "postal_code": "43120"
+                    },
+                    {
+                        "district": "ศรีเชียงใหม่",
+                        "postal_code": "43130"
+                    },
+                    {
+                        "district": "สระใคร",
+                        "postal_code": "43100"
+                    },
+                    {
+                        "district": "สังคม",
+                        "postal_code": "43160"
+                    }
+                ]
+            },
+            {
+                "name": "หนองบัวลำภู",
+                "districts": [
+                    {
+                        "district": "เมืองหนองบัวลำภู",
+                        "postal_code": "39000"
+                    },
+                    {
+                        "district": "นากลาง",
+                        "postal_code": "39170"
+                    },
+                    {
+                        "district": "นาวัง",
+                        "postal_code": "39170"
+                    },
+                    {
+                        "district": "โนนสัง",
+                        "postal_code": "39140"
+                    },
+                    {
+                        "district": "ศรีบุญเรือง",
+                        "postal_code": "39180"
+                    },
+                    {
+                        "district": "สุวรรณคูหา",
+                        "postal_code": "39270"
+                    }
+                ]
+            },
+            {
+                "name": "อ่างทอง",
+                "districts": [
+                    {
+                        "district": "เมืองอ่างทอง",
+                        "postal_code": "14000"
+                    },
+                    {
+                        "district": "ไชโย",
+                        "postal_code": "14140"
+                    },
+                    {
+                        "district": "ป่าโมก",
+                        "postal_code": "14130"
+                    },
+                    {
+                        "district": "โพธิ์ทอง",
+                        "postal_code": "14120"
+                    },
+                    {
+                        "district": "วิเศษชัยชาญ",
+                        "postal_code": "14110"
+                    },
+                    {
+                        "district": "สามโก้",
+                        "postal_code": "14160"
+                    },
+                    {
+                        "district": "แสวงหา",
+                        "postal_code": "14150"
+                    }
+                ]
+            },
+            {
+                "name": "อำนาจเจริญ",
+                "districts": [
+                    {
+                        "district": "เมืองอำนาจเจริญ",
+                        "postal_code": "37000"
+                    },
+                    {
+                        "district": "ชานุมาน",
+                        "postal_code": "37210"
+                    },
+                    {
+                        "district": "ปทุมราชวงศา",
+                        "postal_code": "37110"
+                    },
+                    {
+                        "district": "พนา",
+                        "postal_code": "37180"
+                    },
+                    {
+                        "district": "ลืออำนาจ",
+                        "postal_code": "37120"
+                    },
+                    {
+                        "district": "เสนางคนิคม",
+                        "postal_code": "37290"
+                    },
+                    {
+                        "district": "หัวตะพาน",
+                        "postal_code": "37240"
+                    }
+                ]
+            },
+            {
+                "name": "อุดรธานี",
+                "districts": [
+                    {
+                        "district": "เมืองอุดรธานี",
+                        "postal_code": "41000"
+                    },
+                    {
+                        "district": "กุดจับ",
+                        "postal_code": "41250"
+                    },
+                    {
+                        "district": "กุมภวาปี",
+                        "postal_code": "41110"
+                    },
+                    {
+                        "district": "กู่แก้ว",
+                        "postal_code": "41130"
+                    },
+                    {
+                        "district": "ไชยวาน",
+                        "postal_code": "41290"
+                    },
+                    {
+                        "district": "ทุ่งฝน",
+                        "postal_code": "41310"
+                    },
+                    {
+                        "district": "นายูง",
+                        "postal_code": "41380"
+                    },
+                    {
+                        "district": "น้ำโสม",
+                        "postal_code": "41210"
+                    },
+                    {
+                        "district": "โนนสะอาด",
+                        "postal_code": "41240"
+                    },
+                    {
+                        "district": "บ้านดุง",
+                        "postal_code": "41190"
+                    },
+                    {
+                        "district": "บ้านผือ",
+                        "postal_code": "41160"
+                    },
+                    {
+                        "district": "ประจักษ์ศิลปาคม",
+                        "postal_code": "41110"
+                    },
+                    {
+                        "district": "พิบูลย์รักษ์",
+                        "postal_code": "41130"
+                    },
+                    {
+                        "district": "เพ็ญ",
+                        "postal_code": "41150"
+                    },
+                    {
+                        "district": "วังสามหมอ",
+                        "postal_code": "41280"
+                    },
+                    {
+                        "district": "ศรีธาตุ",
+                        "postal_code": "41230"
+                    },
+                    {
+                        "district": "สร้างคอม",
+                        "postal_code": "41260"
+                    },
+                    {
+                        "district": "หนองวัวซอ",
+                        "postal_code": "41220"
+                    },
+                    {
+                        "district": "หนองแสง",
+                        "postal_code": "41340"
+                    },
+                    {
+                        "district": "หนองหาน",
+                        "postal_code": "41130"
+                    }
+                ]
+            },
+            {
+                "name": "อุตรดิตถ์",
+                "districts": [
+                    {
+                        "district": "เมืองอุตรดิตถ์",
+                        "postal_code": "53000"
+                    },
+                    {
+                        "district": "ตรอน",
+                        "postal_code": "53140"
+                    },
+                    {
+                        "district": "ทองแสนขัน",
+                        "postal_code": "53230"
+                    },
+                    {
+                        "district": "ท่าปลา",
+                        "postal_code": "53150"
+                    },
+                    {
+                        "district": "น้ำปาด",
+                        "postal_code": "53110"
+                    },
+                    {
+                        "district": "บ้านโคก",
+                        "postal_code": "53180"
+                    },
+                    {
+                        "district": "พิชัย",
+                        "postal_code": "53120"
+                    },
+                    {
+                        "district": "ฟากท่า",
+                        "postal_code": "53160"
+                    },
+                    {
+                        "district": "ลับแล",
+                        "postal_code": "53130"
+                    }
+                ]
+            },
+            {
+                "name": "อุทัยธานี",
+                "districts": [
+                    {
+                        "district": "เมืองอุทัยธานี",
+                        "postal_code": "61000"
+                    },
+                    {
+                        "district": "ทัพทัน",
+                        "postal_code": "61120"
+                    },
+                    {
+                        "district": "บ้านไร่",
+                        "postal_code": "61140"
+                    },
+                    {
+                        "district": "ลานสัก",
+                        "postal_code": "61160"
+                    },
+                    {
+                        "district": "สว่างอารมณ์",
+                        "postal_code": "61150"
+                    },
+                    {
+                        "district": "หนองขาหย่าง",
+                        "postal_code": "61130"
+                    },
+                    {
+                        "district": "หนองฉาง",
+                        "postal_code": "61110"
+                    },
+                    {
+                        "district": "ห้วยคต",
+                        "postal_code": "61170"
+                    }
+                ]
+            },
+            {
+                "name": "อุบลราชธานี",
+                "districts": [
+                    {
+                        "district": "เมืองอุบลราชธานี",
+                        "postal_code": "34000"
+                    },
+                    {
+                        "district": "กุดข้าวปุ้น",
+                        "postal_code": "34270"
+                    },
+                    {
+                        "district": "เขมราฐ",
+                        "postal_code": "34170"
+                    },
+                    {
+                        "district": "เขื่องใน",
+                        "postal_code": "34150"
+                    },
+                    {
+                        "district": "โขงเจียม",
+                        "postal_code": "34220"
+                    },
+                    {
+                        "district": "ดอนมดแดง",
+                        "postal_code": "34000"
+                    },
+                    {
+                        "district": "เดชอุดม",
+                        "postal_code": "34160"
+                    },
+                    {
+                        "district": "ตระการพืชผล",
+                        "postal_code": "34130"
+                    },
+                    {
+                        "district": "ตาลสุม",
+                        "postal_code": "34330"
+                    },
+                    {
+                        "district": "ทุ่งศรีอุดม",
+                        "postal_code": "34160"
+                    },
+                    {
+                        "district": "นาจะหลวย",
+                        "postal_code": "34280"
+                    },
+                    {
+                        "district": "นาตาล",
+                        "postal_code": "34170"
+                    },
+                    {
+                        "district": "นาเยีย",
+                        "postal_code": "34160"
+                    },
+                    {
+                        "district": "น้ำขุ่น",
+                        "postal_code": "34260"
+                    },
+                    {
+                        "district": "น้ำยืน",
+                        "postal_code": "34260"
+                    },
+                    {
+                        "district": "บุณฑริก",
+                        "postal_code": "34230"
+                    },
+                    {
+                        "district": "พิบูลมังสาหาร",
+                        "postal_code": "34110"
+                    },
+                    {
+                        "district": "โพธิ์ไทร",
+                        "postal_code": "34340"
+                    },
+                    {
+                        "district": "ม่วงสามสิบ",
+                        "postal_code": "34140"
+                    },
+                    {
+                        "district": "วารินชำราบ",
+                        "postal_code": "34190"
+                    },
+                    {
+                        "district": "ศรีเมืองใหม่",
+                        "postal_code": "34250"
+                    },
+                    {
+                        "district": "สำโรง",
+                        "postal_code": "34360"
+                    },
+                    {
+                        "district": "สิรินธร",
+                        "postal_code": "34350"
+                    },
+                    {
+                        "district": "สว่างวีระวงศ์",
+                        "postal_code": "34190"
+                    },
+                    {
+                        "district": "เหล่าเสือโก้ก",
+                        "postal_code": "34000"
+                    }
+                ]
+            }
+        ]
+    ]
+}
