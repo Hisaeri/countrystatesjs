@@ -11,6 +11,11 @@
   },
   "states": [
     {
+      "abbreviation": "ID-JK",
+      "name": "Jakarta Special Capital Region",
+      "country": "ID"
+    },
+    {
       "abbreviation": "ID-AC",
       "name": "Special Region of Aceh",
       "country": "ID"
@@ -68,11 +73,6 @@
     {
       "abbreviation": "ID-GO",
       "name": "Gorontalo",
-      "country": "ID"
-    },
-    {
-      "abbreviation": "ID-JK",
-      "name": "Jakarta Special Capital Region",
       "country": "ID"
     },
     {
