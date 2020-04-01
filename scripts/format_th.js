@@ -6,16 +6,27 @@ function addPostCode(state, stateNb) {
     for (var i = 0; i < states[stateNb].districts.length; i++) {
         if (states[stateNb].districts[i].district === state.district) {
             // found this district already! just add postal code to its zip list
-            states[stateNb].districts[i].postal_codes.push(state.zip);
+            states[stateNb].districts[i].postal_codes = getPostCodes(state);
             return true;
         }
     }
     // district not found already! push it to the province
     states[stateNb].districts.push({
         "district": state.district,
-        "postal_codes": [state.zip]
+        "postal_codes": getPostCodes(state)
     });
     return false;
+}
+
+function getPostCodes(state) {
+    console.log(state);
+    var codes = [];
+    for (var i = 0; i < 10; i++) {
+        if (state['postal_code' + i]) {
+            codes.push(state['postal_code' + i]);
+        }
+    }
+    return codes;
 }
 
 function addDistrict(state) {
@@ -30,7 +41,7 @@ function addDistrict(state) {
     // province doesnt exists, push district and its postal code
     states.push({
         "name": state.province,
-        "districts": [{ "district": state.district, "postal_codes": [state.zip] }]
+        "districts": [{ "district": state.district, "postal_codes": getPostCodes(state) }]
     });
     return false;
 }
