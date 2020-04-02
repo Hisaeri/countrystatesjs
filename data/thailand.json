@@ -1304,7 +1304,9 @@
                 },
                 {
                     "district": "เมือง/ Mueang",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "86000"
+                    ]
                 },
                 {
                     "district": "เมืองชุมพร/ Mueang Chumphon",
@@ -1757,7 +1759,9 @@
                 },
                 {
                     "district": "ชำสูง/ Sam Sung",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "40170"
+                    ]
                 },
                 {
                     "district": "ซำสูง/ Sam Sung",
@@ -2150,7 +2154,9 @@
                 },
                 {
                     "district": "สระโบถส์/ Sa Bot",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "15240"
+                    ]
                 },
                 {
                     "district": "สระโบสถ์/ Sa Bot",
@@ -2196,7 +2202,9 @@
                 },
                 {
                     "district": "เมือง/ Maung",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "58000"
+                    ]
                 },
                 {
                     "district": "เมืองแม่ฮ่องสอน/ Mueang Mae Hong Son",
@@ -3139,7 +3147,9 @@
                 },
                 {
                     "district": "สุไหงโก-ลก/ Su-ngai Kolok",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "96120"
+                    ]
                 },
                 {
                     "district": "สุไหงปาดี/ Su-ngai Padi",
@@ -3172,7 +3182,9 @@
             "districts": [
                 {
                     "district": "กุดดินจี่ เก่ากลอย ดงสวรรค์/ Kuddinjww Gauogloy Dongsawan",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "39350"
+                    ]
                 },
                 {
                     "district": "นากลาง/ Na Klang",
@@ -3201,7 +3213,9 @@
                 },
                 {
                     "district": "ป่ากุดดินจี่/ Pa Guddingee",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "39350"
+                    ]
                 },
                 {
                     "district": "ศรีบุญเรือง/ Si Bun Rueang",
@@ -3222,15 +3236,21 @@
             "districts": [
                 {
                     "district": "บึงกาฬ/ Bueng Kan",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "43140"
+                    ]
                 },
                 {
                     "district": "บึงโขงหลง/ Bueng Khong Long",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "38220"
+                    ]
                 },
                 {
                     "district": "บุ่งคล้า/ Bung Khla",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "38000"
+                    ]
                 },
                 {
                     "district": "เฝ้าไร่/ Fao Rai",
@@ -3259,7 +3279,9 @@
                 },
                 {
                     "district": "พรเจริญ/ Porn Charoen",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "38180"
+                    ]
                 },
                 {
                     "district": "รัตนวาปี/ Rattanawapi",
@@ -3281,7 +3303,9 @@
                 },
                 {
                     "district": "เซกา/ Seka",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "38150"
+                    ]
                 },
                 {
                     "district": "ศรีเชียงใหม่/ Si Chiang Mai",
@@ -3291,11 +3315,15 @@
                 },
                 {
                     "district": "โซ่พิสัย/ So Phisai",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "38170"
+                    ]
                 },
                 {
                     "district": "ศรีวิไล/ Sri Wilai",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "38220"
+                    ]
                 },
                 {
                     "district": "ท่าบ่อ/ Tha Bo",
@@ -3304,8 +3332,10 @@
                     ]
                 },
                 {
-                    "district": "บึงโขลงหลงฝBueng Khong Long",
-                    "postal_codes": []
+                    "district": "บึงโขลงหลงฝ/Bueng Khong Long",
+                    "postal_codes": [
+                        "38220"
+                    ]
                 }
             ]
         },
@@ -5404,7 +5434,9 @@
                 },
                 {
                     "district": "บ้างตาขุน/ Ban Ta Khun",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "84230"
+                    ]
                 },
                 {
                     "district": "ชัยบุรี/ Chai Buri",
@@ -5449,7 +5481,9 @@
                 },
                 {
                     "district": "เกาะเต่า/ Koh Tao",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "84280"
+                    ]
                 },
                 {
                     "district": "เกาะพะงัน/ Ko Pha-ngan",
@@ -5470,7 +5504,6 @@
                 {
                     "district": "เมืองสุราษฎร์ธานี/ Mueang Surat Thani",
                     "postal_codes": [
-                        "84100",
                         "84000"
                     ]
                 },
@@ -5506,7 +5539,9 @@
                 },
                 {
                     "district": "ท่าช้าง/ Tha Chang",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "84150"
+                    ]
                 },
                 {
                     "district": "วิภาวดี/ Vibhavadi",
@@ -5516,7 +5551,9 @@
                 },
                 {
                     "district": "เวียงสา/ Wiang Sa",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "84190"
+                    ]
                 },
                 {
                     "district": "เวียงสระ/ Wiang Sa",
@@ -5537,7 +5574,9 @@
                 },
                 {
                     "district": "จมพระ/ Chom Phra",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "32180"
+                    ]
                 },
                 {
                     "district": "ชุมพลบุรี/ Chumphon Buri",
@@ -6076,7 +6115,9 @@
                 },
                 {
                     "district": "พิบูลรักษ์/ Phibun Rak",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "41130"
+                    ]
                 },
                 {
                     "district": "ประจักษ์ศิลปาคม/ Prachaksinlapakhom",
@@ -6115,7 +6156,9 @@
             "districts": [
                 {
                     "district": "บ้านใหม่คองเคียน/ Ban Mai Kong Kain",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "61180"
+                    ]
                 },
                 {
                     "district": "บ้านไร่/ Ban Rai",
@@ -6132,7 +6175,9 @@
                 },
                 {
                     "district": "เขาบางแกรก/ Kao Bang Kag",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "61170"
+                    ]
                 },
                 {
                     "district": "ลานสัก/ Lan Sak",
@@ -6148,7 +6193,9 @@
                 },
                 {
                     "district": "เมือง/ Mueang Uthai Thani",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "61000"
+                    ]
                 },
                 {
                     "district": "หนองฉาง/ Nong Chang",
@@ -6171,7 +6218,9 @@
                 },
                 {
                     "district": "สวนสัก/ Suan Sak",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "61000"
+                    ]
                 },
                 {
                     "district": "ทัพทัน/ Thap Than",
@@ -6181,7 +6230,9 @@
                 },
                 {
                     "district": "วังหิน/ Wang Hin",
-                    "postal_codes": []
+                    "postal_codes": [
+                        "61180"
+                    ]
                 }
             ]
         },

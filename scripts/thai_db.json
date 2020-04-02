@@ -1037,7 +1037,7 @@
     {
         "province": "ชุมพร/ Chumphon",
         "district": "เมือง/ Mueang",
-        "postal_code1": ""
+        "postal_code1": "86000"
     },
     {
         "province": "ชุมพร/ Chumphon",
@@ -1403,7 +1403,7 @@
     {
         "province": "ขอนแก่น/ Khon Kaen",
         "district": "ชำสูง/ Sam Sung",
-        "postal_code1": ""
+        "postal_code1": "40170"
     },
     {
         "province": "ขอนแก่น/ Khon Kaen",
@@ -1715,7 +1715,7 @@
     {
         "province": "ลพบุรี/ Lopburi",
         "district": "สระโบถส์/ Sa Bot",
-        "postal_code1": ""
+        "postal_code1": "15240"
     },
     {
         "province": "ลพบุรี/ Lopburi",
@@ -1751,7 +1751,7 @@
     {
         "province": "แม่ฮ่องสอน/ Mae Hong Son",
         "district": "เมือง/ Maung",
-        "postal_code1": ""
+        "postal_code1": "58000"
     },
     {
         "province": "แม่ฮ่องสอน/ Mae Hong Son",
@@ -2503,7 +2503,7 @@
     {
         "province": "นราธิวาส/ Narathiwat",
         "district": "สุไหงโก-ลก/ Su-ngai Kolok",
-        "postal_code1": ""
+        "postal_code1": "96120"
     },
     {
         "province": "นราธิวาส/ Narathiwat",
@@ -2528,7 +2528,7 @@
     {
         "province": "หนองบัวลำภู/ Nongbua Lamphu",
         "district": "กุดดินจี่ เก่ากลอย ดงสวรรค์/ Kuddinjww Gauogloy Dongsawan",
-        "postal_code1": ""
+        "postal_code1": "39350"
     },
     {
         "province": "หนองบัวลำภู/ Nongbua Lamphu",
@@ -2554,7 +2554,7 @@
     {
         "province": "หนองบัวลำภู/ Nongbua Lamphu",
         "district": "ป่ากุดดินจี่/ Pa Guddingee",
-        "postal_code1": ""
+        "postal_code1": "39350"
     },
     {
         "province": "หนองบัวลำภู/ Nongbua Lamphu",
@@ -2569,19 +2569,22 @@
     {
         "province": "หนองคาย/ Nong Khai",
         "district": "บึงกาฬ/ Bueng Kan",
-        "postal_code1": ""
+        "postal_code1": "43140"
     },
     {
         "province": "หนองคาย/ Nong Khai",
-        "district": "บึงโขงหลง/ Bueng Khong Long"
+        "district": "บึงโขงหลง/ Bueng Khong Long",
+        "postal_code1": "38220"
     },
     {
         "province": "หนองคาย/ Nong Khai",
-        "district": "บุ่งคล้า/ Bung Khla"
+        "district": "บุ่งคล้า/ Bung Khla",
+        "postal_code1": "38000"
     },
     {
         "province": "หนองคาย/ Nong Khai",
-        "district": "บุ่งคล้า/ Bung Khla"
+        "district": "บุ่งคล้า/ Bung Khla",
+        "postal_code1": "38000"
     },
     {
         "province": "หนองคาย/ Nong Khai",
@@ -2606,7 +2609,8 @@
     },
     {
         "province": "หนองคาย/ Nong Khai",
-        "district": "พรเจริญ/ Porn Charoen"
+        "district": "พรเจริญ/ Porn Charoen",
+        "postal_code1": "38180"
     },
     {
         "province": "หนองคาย/ Nong Khai",
@@ -2625,7 +2629,8 @@
     },
     {
         "province": "หนองคาย/ Nong Khai",
-        "district": "เซกา/ Seka"
+        "district": "เซกา/ Seka",
+        "postal_code1": "38150"
     },
     {
         "province": "หนองคาย/ Nong Khai",
@@ -2634,11 +2639,13 @@
     },
     {
         "province": "หนองคาย/ Nong Khai",
-        "district": "โซ่พิสัย/ So Phisai"
+        "district": "โซ่พิสัย/ So Phisai",
+        "postal_code1": "38170"
     },
     {
         "province": "หนองคาย/ Nong Khai",
-        "district": "ศรีวิไล/ Sri Wilai"
+        "district": "ศรีวิไล/ Sri Wilai",
+        "postal_code1": "38220"
     },
     {
         "province": "หนองคาย/ Nong Khai",
@@ -2647,8 +2654,8 @@
     },
     {
         "province": "หนองคาย/ Nong Khai",
-        "district": "บึงโขลงหลงฝBueng Khong Long",
-        "postal_code1": ""
+        "district": "บึงโขลงหลงฝ/Bueng Khong Long",
+        "postal_code1": "38220"
     },
     {
         "province": "นนทบุรี/ Nonthaburi",
@@ -4285,7 +4292,7 @@
     {
         "province": "สุราษฎร์ธานี/ Surat Thani",
         "district": "บ้างตาขุน/ Ban Ta Khun",
-        "postal_code1": ""
+        "postal_code1": "84230"
     },
     {
         "province": "สุราษฎร์ธานี/ Surat Thani",
@@ -4325,7 +4332,7 @@
     {
         "province": "สุราษฎร์ธานี/ Surat Thani",
         "district": "เกาะเต่า/ Koh Tao",
-        "postal_code1": ""
+        "postal_code1": "84280"
     },
     {
         "province": "สุราษฎร์ธานี/ Surat Thani",
@@ -4374,7 +4381,8 @@
     },
     {
         "province": "สุราษฎร์ธานี/ Surat Thani",
-        "district": "ท่าช้าง/ Tha Chang"
+        "district": "ท่าช้าง/ Tha Chang",
+        "postal_code1": "84150"
     },
     {
         "province": "สุราษฎร์ธานี/ Surat Thani",
@@ -4383,7 +4391,8 @@
     },
     {
         "province": "สุราษฎร์ธานี/ Surat Thani",
-        "district": "เวียงสา/ Wiang Sa"
+        "district": "เวียงสา/ Wiang Sa",
+        "postal_code1": "84190"
     },
     {
         "province": "สุราษฎร์ธานี/ Surat Thani",
@@ -4398,7 +4407,7 @@
     {
         "province": "สุรินทร์/ Surin",
         "district": "จมพระ/ Chom Phra",
-        "postal_code1": ""
+        "postal_code1": "32180"
     },
     {
         "province": "สุรินทร์/ Surin",
@@ -4831,7 +4840,7 @@
     {
         "province": "อุดรธานี/ Udon Thani",
         "district": "พิบูลรักษ์/ Phibun Rak",
-        "postal_code1": ""
+        "postal_code1": "41130"
     },
     {
         "province": "อุดรธานี/ Udon Thani",
@@ -4861,7 +4870,7 @@
     {
         "province": "อุทัยธานี/ Uthai Thani",
         "district": "บ้านใหม่คองเคียน/ Ban Mai Kong Kain",
-        "postal_code1": ""
+        "postal_code1": "61180"
     },
     {
         "province": "อุทัยธานี/ Uthai Thani",
@@ -4877,7 +4886,7 @@
     {
         "province": "อุทัยธานี/ Uthai Thani",
         "district": "เขาบางแกรก/ Kao Bang Kag",
-        "postal_code1": ""
+        "postal_code1": "61170"
     },
     {
         "province": "อุทัยธานี/ Uthai Thani",
@@ -4892,7 +4901,7 @@
     {
         "province": "อุทัยธานี/ Uthai Thani",
         "district": "เมือง/ Mueang Uthai Thani",
-        "postal_code1": ""
+        "postal_code1": "61000"
     },
     {
         "province": "อุทัยธานี/ Uthai Thani",
@@ -4913,7 +4922,7 @@
     {
         "province": "อุทัยธานี/ Uthai Thani",
         "district": "สวนสัก/ Suan Sak",
-        "postal_code1": ""
+        "postal_code1": "61000"
     },
     {
         "province": "อุทัยธานี/ Uthai Thani",
@@ -4922,7 +4931,8 @@
     },
     {
         "province": "อุทัยธานี/ Uthai Thani",
-        "district": "วังหิน/ Wang Hin"
+        "district": "วังหิน/ Wang Hin",
+        "postal_code1": "61180"
     },
     {
         "province": "อุตรดิตถ์/ Uttaradit",
@@ -5062,5 +5072,15 @@
         "province": "ยโสธร/ Yasothon",
         "district": "ไทยเจริญ/ Thai Charoen",
         "postal_code1": "35120"
+    },
+    {
+        "province": "สุราษฎร์ธานี/ Surat Thani",
+        "district": "เมืองสุราษฎร์ธานี/ Mueang Surat Thani",
+        "postal_code1": "84100"
+    },
+    {
+        "province": "สุราษฎร์ธานี/ Surat Thani",
+        "district": "เมืองสุราษฎร์ธานี/ Mueang Surat Thani",
+        "postal_code1": "84000"
     }
 ]
