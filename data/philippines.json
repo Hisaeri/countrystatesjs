@@ -127,10 +127,6 @@
       "country": "PH"
     },
     {
-      "name": "Davao Occidental",
-      "country": "PH"
-    },
-    {
       "name": "Davao Oriental",
       "country": "PH"
     },
@@ -195,11 +191,27 @@
       "country": "PH"
     },
     {
+      "name": "Manila",
+      "country": "PH"
+    },
+    {
       "name": "Marinduque",
       "country": "PH"
     },
     {
       "name": "Masbate",
+      "country": "PH"
+    },
+    {
+      "name": "Metro Manila",
+      "country": "PH"
+    },
+    {
+      "name": "Mindoro Occidental",
+      "country": "PH"
+    },
+    {
+      "name": "Mindoro Oriental",
       "country": "PH"
     },
     {
@@ -235,14 +247,6 @@
       "country": "PH"
     },
     {
-      "name": "Occidental Mindoro",
-      "country": "PH"
-    },
-    {
-      "name": "Oriental Mindoro",
-      "country": "PH"
-    },
-    {
       "name": "Palawan",
       "country": "PH"
     },
@@ -271,7 +275,7 @@
       "country": "PH"
     },
     {
-      "name": "Samar",
+      "name": "Samar (Western Samar)",
       "country": "PH"
     },
     {
@@ -332,10 +336,6 @@
     },
     {
       "name": "Zamboanga Sibugay",
-      "country": "PH"
-    },
-    {
-      "name": "Metro Manila",
       "country": "PH"
     }
   ]
