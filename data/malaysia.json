@@ -9,7 +9,7 @@
     },
     "states": [
         {
-            "name": "Wp Kuala Lumpur",
+            "name": "Kuala Lumpur",
             "country": "MY"
         },
         {
@@ -37,7 +37,7 @@
             "country": "MY"
         },
         {
-            "name": "Penang",
+            "name": "Pulau Pinang",
             "country": "MY"
         },
         {
@@ -65,11 +65,11 @@
             "country": "MY"
         },
         {
-            "name": "Wp Labuan",
+            "name": "Labuan",
             "country": "MY"
         },
         {
-            "name": "Wp Putrajaya",
+            "name": "Putrajaya",
             "country": "MY"
         }
     ]
