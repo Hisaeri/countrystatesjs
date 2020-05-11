@@ -1,6 +1,6 @@
 {
   "name": "countrystatesjs-hisaeri",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "description": "A utility library for returning state/province data given a country",
   "main": "index.js",
   "author": "Roch Fiona",
