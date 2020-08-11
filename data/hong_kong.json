@@ -14,16 +14,20 @@
     "states": [
         {
             "name": "香港島",
+            "translate": "HK",
+            "translation_key": "HK_ISLAND",
             "english": "Hong Kong Island",
             "country": "HK"
         },
         {
             "name": "九龍",
+            "translation_key": "HK_KOWLOON",
             "english": "Kowloon",
             "country": "HK"
         },
         {
             "name": "新界",
+            "translation_key": "HK_NT",
             "english": "New Territories",
             "country": "HK"
         }
