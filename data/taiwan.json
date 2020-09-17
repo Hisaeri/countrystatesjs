@@ -1,0 +1,757 @@
+{
+    "name": "Taiwan",
+    "altSpellings": [
+        "TW",
+        "Taiwan",
+        "台灣"
+    ],
+    "ISO": {
+        "alpha2": "TW",
+        "alpha3": "TWN"
+    },
+    "states": [
+        {
+            "name": "Taipei",
+            "translation_key": "TW_TAIPEI",
+            "country": "TW",
+            "districts": [
+                {
+                    "name": "Zhongzheng",
+                    "translation_key": "TW_TAIPEI_Zhongzheng"
+                },
+                {
+                    "name": "Wanhua",
+                    "translation_key": "TW_TAIPEI_Wanhua"
+                },
+                {
+                    "name": "Datong",
+                    "translation_key": "TW_TAIPEI_Datong"
+                },
+                {
+                    "name": "Zhongshan",
+                    "translation_key": "TW_TAIPEI_Zhongshan"
+                },
+                {
+                    "name": "Songshan",
+                    "translation_key": "TW_TAIPEI_Songshan"
+                },
+                {
+                    "name": "Daan",
+                    "translation_key": "TW_TAIPEI_Daan"
+                },
+                {
+                    "name": "Xinyi",
+                    "translation_key": "TW_TAIPEI_Xinyi"
+                },
+                {
+                    "name": "Neihu",
+                    "translation_key": "TW_TAIPEI_Neihu"
+                },
+                {
+                    "name": "Nangang",
+                    "translation_key": "TW_TAIPEI_Nangang"
+                },
+                {
+                    "name": "Shilin",
+                    "translation_key": "TW_TAIPEI_Shilin"
+                },
+                {
+                    "name": "Beitou",
+                    "translation_key": "TW_TAIPEI_Beitou"
+                },
+                {
+                    "name": "Wenshan",
+                    "translation_key": "TW_TAIPEI_Wenshan"
+                }
+            ]
+        },
+        {
+            "name": "New Taipei",
+            "translation_key": "TW_NEW_TAIPEI",
+            "country": "TW",
+            "districts": [
+                {
+                    "name": "Banqiao",
+                    "translation_key": "TW_NEW_TAIPEI_Banqiao"
+                },
+                {
+                    "name": "Xinzhuang",
+                    "translation_key": "TW_NEW_TAIPEI_Xinzhuang"
+                },
+                {
+                    "name": "Zhonghe",
+                    "translation_key": "TW_NEW_TAIPEI_Zhonghe"
+                },
+                {
+                    "name": "Yonghe",
+                    "translation_key": "TW_NEW_TAIPEI_Yonghe"
+                },
+                {
+                    "name": "Tucheng",
+                    "translation_key": "TW_NEW_TAIPEI_Tucheng"
+                },
+                {
+                    "name": "Shulin",
+                    "translation_key": "TW_NEW_TAIPEI_Shulin"
+                },
+                {
+                    "name": "Sanxia",
+                    "translation_key": "TW_NEW_TAIPEI_Sanxia"
+                },
+                {
+                    "name": "Yingge",
+                    "translation_key": "TW_NEW_TAIPEI_Yingge"
+                },
+                {
+                    "name": "Sanchong",
+                    "translation_key": "TW_NEW_TAIPEI_Sanchong"
+                },
+                {
+                    "name": "Luzhou",
+                    "translation_key": "TW_NEW_TAIPEI_Luzhou"
+                },
+                {
+                    "name": "Wugu",
+                    "translation_key": "TW_NEW_TAIPEI_Wugu"
+                },
+                {
+                    "name": "Taishan",
+                    "translation_key": "TW_NEW_TAIPEI_Taishan"
+                },
+                {
+                    "name": "Linkou",
+                    "translation_key": "TW_NEW_TAIPEI_Linkou"
+                },
+                {
+                    "name": "Bali",
+                    "translation_key": "TW_NEW_TAIPEI_Bali"
+                },
+                {
+                    "name": "Tamsui",
+                    "translation_key": "TW_NEW_TAIPEI_Tamsui"
+                },
+                {
+                    "name": "Sanzhi",
+                    "translation_key": "TW_NEW_TAIPEI_Sanzhi"
+                },
+                {
+                    "name": "Shimen",
+                    "translation_key": "TW_NEW_TAIPEI_Shimen"
+                },
+                {
+                    "name": "Jinshan",
+                    "translation_key": "TW_NEW_TAIPEI_Jinshan"
+                },
+                {
+                    "name": "Wanli",
+                    "translation_key": "TW_NEW_TAIPEI_Wanli"
+                },
+                {
+                    "name": "Xizhi",
+                    "translation_key": "TW_NEW_TAIPEI_Xizhi"
+                },
+                {
+                    "name": "Ruifang",
+                    "translation_key": "TW_NEW_TAIPEI_Ruifang"
+                },
+                {
+                    "name": "Gongliao",
+                    "translation_key": "TW_NEW_TAIPEI_Gongliao"
+                },
+                {
+                    "name": "Pingxi",
+                    "translation_key": "TW_NEW_TAIPEI_Pingxi"
+                },
+                {
+                    "name": "Shuangxi",
+                    "translation_key": "TW_NEW_TAIPEI_Shuangxi"
+                },
+                {
+                    "name": "Xindian",
+                    "translation_key": "TW_NEW_TAIPEI_Xindian"
+                },
+                {
+                    "name": "Shenkeng",
+                    "translation_key": "TW_NEW_TAIPEI_Shenkeng"
+                },
+                {
+                    "name": "Shiding",
+                    "translation_key": "TW_NEW_TAIPEI_Shiding"
+                },
+                {
+                    "name": "Pinglin",
+                    "translation_key": "TW_NEW_TAIPEI_Pinglin"
+                },
+                {
+                    "name": "Wulai",
+                    "translation_key": "TW_NEW_TAIPEI_Wulai"
+                }
+            ]
+        },
+        {
+            "name": "Taoyuan",
+            "translation_key": "TW_TAOYUAN",
+            "country": "TW",
+            "districts": [
+                {
+                    "name": "Taoyuan",
+                    "translation_key": "TW_TAOYUAN_Taoyuan"
+                },
+                {
+                    "name": "Zhongli",
+                    "translation_key": "TW_TAOYUAN_Zhongli"
+                },
+                {
+                    "name": "Daxi",
+                    "translation_key": "TW_TAOYUAN_Daxi"
+                },
+                {
+                    "name": "Yangmei",
+                    "translation_key": "TW_TAOYUAN_Yangmei"
+                },
+                {
+                    "name": "Luzhu",
+                    "translation_key": "TW_TAOYUAN_Luzhu"
+                },
+                {
+                    "name": "Dayuan",
+                    "translation_key": "TW_TAOYUAN_Dayuan"
+                },
+                {
+                    "name": "Guishan",
+                    "translation_key": "TW_TAOYUAN_Guishan"
+                },
+                {
+                    "name": "Bade",
+                    "translation_key": "TW_TAOYUAN_Bade"
+                },
+                {
+                    "name": "Longtan",
+                    "translation_key": "TW_TAOYUAN_Longtan"
+                },
+                {
+                    "name": "Pingzhen",
+                    "translation_key": "TW_TAOYUAN_Pingzhen"
+                },
+                {
+                    "name": "Xinwu",
+                    "translation_key": "TW_TAOYUAN_Xinwu"
+                },
+                {
+                    "name": "Guanyin",
+                    "translation_key": "TW_TAOYUAN_Guanyin"
+                },
+                {
+                    "name": "Fuxing",
+                    "translation_key": "TW_TAOYUAN_Fuxing"
+                }
+            ]
+        },
+        {
+            "name": "Taichung",
+            "translation_key": "TW_TAICHUNG",
+            "country": "TW",
+            "districts": [
+                {
+                    "name": "Central",
+                    "translation_key": "TW_TAICHUNG_Central"
+                },
+                {
+                    "name": "East",
+                    "translation_key": "TW_TAICHUNG_East"
+                },
+                {
+                    "name": "South",
+                    "translation_key": "TW_TAICHUNG_South"
+                },
+                {
+                    "name": "West",
+                    "translation_key": "TW_TAICHUNG_West"
+                },
+                {
+                    "name": "North",
+                    "translation_key": "TW_TAICHUNG_North"
+                },
+                {
+                    "name": "Beitun",
+                    "translation_key": "TW_TAICHUNG_Beitun"
+                },
+                {
+                    "name": "Xitun",
+                    "translation_key": "TW_TAICHUNG_Xitun"
+                },
+                {
+                    "name": "Nantun",
+                    "translation_key": "TW_TAICHUNG_Nantun"
+                },
+                {
+                    "name": "Taiping",
+                    "translation_key": "TW_TAICHUNG_Taiping"
+                },
+                {
+                    "name": "Dali",
+                    "translation_key": "TW_TAICHUNG_Dali"
+                },
+                {
+                    "name": "Wufeng",
+                    "translation_key": "TW_TAICHUNG_Wufeng"
+                },
+                {
+                    "name": "Wuri",
+                    "translation_key": "TW_TAICHUNG_Wuri"
+                },
+                {
+                    "name": "Fengyuan",
+                    "translation_key": "TW_TAICHUNG_Fengyuan"
+                },
+                {
+                    "name": "Houli",
+                    "translation_key": "TW_TAICHUNG_Houli"
+                },
+                {
+                    "name": "Shigang",
+                    "translation_key": "TW_TAICHUNG_Shigang"
+                },
+                {
+                    "name": "Dongshi",
+                    "translation_key": "TW_TAICHUNG_Dongshi"
+                },
+                {
+                    "name": "Xinshe",
+                    "translation_key": "TW_TAICHUNG_Xinshe"
+                },
+                {
+                    "name": "Tanzi",
+                    "translation_key": "TW_TAICHUNG_Tanzi"
+                },
+                {
+                    "name": "Daya",
+                    "translation_key": "TW_TAICHUNG_Daya"
+                },
+                {
+                    "name": "Shengang",
+                    "translation_key": "TW_TAICHUNG_Shengang"
+                },
+                {
+                    "name": "Dadu",
+                    "translation_key": "TW_TAICHUNG_Dadu"
+                },
+                {
+                    "name": "Shalu",
+                    "translation_key": "TW_TAICHUNG_Shalu"
+                },
+                {
+                    "name": "Longjing",
+                    "translation_key": "TW_TAICHUNG_Longjing"
+                },
+                {
+                    "name": "Wuqi",
+                    "translation_key": "TW_TAICHUNG_Wuqi"
+                },
+                {
+                    "name": "Qingshui",
+                    "translation_key": "TW_TAICHUNG_Qingshui"
+                },
+                {
+                    "name": "Dajia",
+                    "translation_key": "TW_TAICHUNG_Dajia"
+                },
+                {
+                    "name": "Waipu",
+                    "translation_key": "TW_TAICHUNG_Waipu"
+                },
+                {
+                    "name": "Daan",
+                    "translation_key": "TW_TAICHUNG_Daan"
+                },
+                {
+                    "name": "Heping",
+                    "translation_key": "TW_TAICHUNG_Heping"
+                }
+            ]
+        },
+        {
+            "name": "Tainan",
+            "translation_key": "TW_TAINAN",
+            "country": "TW",
+            "districts": [
+                {
+                    "name": "West Central",
+                    "translation_key": "TW_TAINAN_West_Central"
+                },
+                {
+                    "name": "East",
+                    "translation_key": "TW_TAINAN_East"
+                },
+                {
+                    "name": "South",
+                    "translation_key": "TW_TAINAN_South"
+                },
+                {
+                    "name": "North",
+                    "translation_key": "TW_TAINAN_North"
+                },
+                {
+                    "name": "Anping",
+                    "translation_key": "TW_TAINAN_Anping"
+                },
+                {
+                    "name": "Annan",
+                    "translation_key": "TW_TAINAN_Annan"
+                },
+                {
+                    "name": "Yongkang",
+                    "translation_key": "TW_TAINAN_Yongkang"
+                },
+                {
+                    "name": "Gueiren (Guiren)",
+                    "translation_key": "TW_TAINAN_Gueiren_Guiren"
+                },
+                {
+                    "name": "Sinhua (Xinhua)",
+                    "translation_key": "TW_TAINAN_Sinhua_Xinhua"
+                },
+                {
+                    "name": "Zuojhen (Zuozhen)",
+                    "translation_key": "TW_TAINAN_Zuojhen_Zuozhen"
+                },
+                {
+                    "name": "Yujing",
+                    "translation_key": "TW_TAINAN_Yujing"
+                },
+                {
+                    "name": "Nanxi (Nansi)",
+                    "translation_key": "TW_TAINAN_Nanxi_Nansi"
+                },
+                {
+                    "name": "Nanhua",
+                    "translation_key": "TW_TAINAN_Nanhua"
+                },
+                {
+                    "name": "Rende",
+                    "translation_key": "TW_TAINAN_Rende"
+                },
+                {
+                    "name": "Guanmiao",
+                    "translation_key": "TW_TAINAN_Guanmiao"
+                },
+                {
+                    "name": "Longci (Longqi)",
+                    "translation_key": "TW_TAINAN_Longci_Longqi"
+                },
+                {
+                    "name": "Guantian",
+                    "translation_key": "TW_TAINAN_Guantian"
+                },
+                {
+                    "name": "Madou",
+                    "translation_key": "TW_TAINAN_Madou"
+                },
+                {
+                    "name": "Jiali",
+                    "translation_key": "TW_TAINAN_Jiali"
+                },
+                {
+                    "name": "Sigang (Xigang)",
+                    "translation_key": "TW_TAINAN_Sigang_Xigang"
+                },
+                {
+                    "name": "Cigu (Qigu)",
+                    "translation_key": "TW_TAINAN_Cigu_Qigu"
+                },
+                {
+                    "name": "Jiangjun (Jiangjyun)",
+                    "translation_key": "TW_TAINAN_Jiangjun_Jiangjyun"
+                },
+                {
+                    "name": "Syuejia (Xuejia)",
+                    "translation_key": "TW_TAINAN_Syuejia_Xuejia"
+                },
+                {
+                    "name": "Beimen",
+                    "translation_key": "TW_TAINAN_Beimen"
+                },
+                {
+                    "name": "Xinying (Sinying)",
+                    "translation_key": "TW_TAINAN_Xinying_Sinying"
+                },
+                {
+                    "name": "Houbi",
+                    "translation_key": "TW_TAINAN_Houbi"
+                },
+                {
+                    "name": "Baihe",
+                    "translation_key": "TW_TAINAN_Baihe"
+                },
+                {
+                    "name": "Dongshan",
+                    "translation_key": "TW_TAINAN_Dongshan"
+                },
+                {
+                    "name": "Liujia (Lioujia)",
+                    "translation_key": "TW_TAINAN_Liujia_Lioujia"
+                },
+                {
+                    "name": "Xiaying (Siaying)",
+                    "translation_key": "TW_TAINAN_Xiaying_Siaying"
+                },
+                {
+                    "name": "Liouying (Liuying)",
+                    "translation_key": "TW_TAINAN_Liouying_Liuying"
+                },
+                {
+                    "name": "Yanshuei (Yanshui)",
+                    "translation_key": "TW_TAINAN_Yanshuei_Yanshui"
+                },
+                {
+                    "name": "Shanhua",
+                    "translation_key": "TW_TAINAN_Shanhua"
+                },
+                {
+                    "name": "Danei",
+                    "translation_key": "TW_TAINAN_Danei"
+                },
+                {
+                    "name": "Shanshang",
+                    "translation_key": "TW_TAINAN_Shanshang"
+                },
+                {
+                    "name": "Sinshih (Xinshi)",
+                    "translation_key": "TW_TAINAN_Sinshih_Xinshi"
+                },
+                {
+                    "name": "Anding",
+                    "translation_key": "TW_TAINAN_Anding"
+                }
+            ]
+        },
+        {
+            "name": "Kaohsiung",
+            "translation_key": "TW_KAOHSUNG",
+            "country": "TW",
+            "districts": [
+                {
+                    "name": "Yancheng",
+                    "translation_key": "TW_KAOHSUNG_Yancheng"
+                },
+                {
+                    "name": "Gushan",
+                    "translation_key": "TW_KAOHSUNG_Gushan"
+                },
+                {
+                    "name": "Zuoying",
+                    "translation_key": "TW_KAOHSUNG_Zuoying"
+                },
+                {
+                    "name": "Nanzih (Nanzi)",
+                    "translation_key": "TW_KAOHSUNG_Nanzih_Nanzi"
+                },
+                {
+                    "name": "Sanmin",
+                    "translation_key": "TW_KAOHSUNG_Sanmin"
+                },
+                {
+                    "name": "Sinsing (Xinxing)",
+                    "translation_key": "TW_KAOHSUNG_Sinsing_Xinxing"
+                },
+                {
+                    "name": "Cianjin (Qianjin)",
+                    "translation_key": "TW_KAOHSUNG_Cianjin_Qianjin"
+                },
+                {
+                    "name": "Lingya",
+                    "translation_key": "TW_KAOHSUNG_Lingya"
+                },
+                {
+                    "name": "Cianjhen (Qianzhen)",
+                    "translation_key": "TW_KAOHSUNG_Cianjhen_Qianzhen"
+                },
+                {
+                    "name": "Cijin (Qijin)",
+                    "translation_key": "TW_KAOHSUNG_Cijin_Qijin"
+                },
+                {
+                    "name": "Siaogang (Xiaogang)",
+                    "translation_key": "TW_KAOHSUNG_Siaogang_Xiaogang"
+                },
+                {
+                    "name": "Fongshan (Fengshan)",
+                    "translation_key": "TW_KAOHSUNG_Fongshan_Fengshan"
+                },
+                {
+                    "name": "Linyuan",
+                    "translation_key": "TW_KAOHSUNG_Linyuan"
+                },
+                {
+                    "name": "Daliao",
+                    "translation_key": "TW_KAOHSUNG_Daliao"
+                },
+                {
+                    "name": "Dashu",
+                    "translation_key": "TW_KAOHSUNG_Dashu"
+                },
+                {
+                    "name": "Dashe",
+                    "translation_key": "TW_KAOHSUNG_Dashe"
+                },
+                {
+                    "name": "Renwu",
+                    "translation_key": "TW_KAOHSUNG_Renwu"
+                },
+                {
+                    "name": "Niaosong",
+                    "translation_key": "TW_KAOHSUNG_Niaosong"
+                },
+                {
+                    "name": "Gangshan",
+                    "translation_key": "TW_KAOHSUNG_Gangshan"
+                },
+                {
+                    "name": "Ciaotou (Qiaotou)",
+                    "translation_key": "TW_KAOHSUNG_Ciaotou_Qiaotou"
+                },
+                {
+                    "name": "Yanchao",
+                    "translation_key": "TW_KAOHSUNG_Yanchao"
+                },
+                {
+                    "name": "Tianliao",
+                    "translation_key": "TW_KAOHSUNG_Tianliao"
+                },
+                {
+                    "name": "Alian",
+                    "translation_key": "TW_KAOHSUNG_Alian"
+                },
+                {
+                    "name": "Lujhu (Luzhu)",
+                    "translation_key": "TW_KAOHSUNG_Lujhu_Luzhu"
+                },
+                {
+                    "name": "Hunei",
+                    "translation_key": "TW_KAOHSUNG_Hunei"
+                },
+                {
+                    "name": "Qieding (Cieding)",
+                    "translation_key": "TW_KAOHSUNG_Qieding_Cieding"
+                },
+                {
+                    "name": "Yong'an (Yong-an)",
+                    "translation_key": "TW_KAOHSUNG_Yong_an_Yong_an"
+                },
+                {
+                    "name": "Mituo",
+                    "translation_key": "TW_KAOHSUNG_Mituo"
+                },
+                {
+                    "name": "Ziguan (Zihguan)",
+                    "translation_key": "TW_KAOHSUNG_Ziguan_Zihguan"
+                },
+                {
+                    "name": "Cishan (Qishan)",
+                    "translation_key": "TW_KAOHSUNG_Cishan_Qishan"
+                },
+                {
+                    "name": "Meinong",
+                    "translation_key": "TW_KAOHSUNG_Meinong"
+                },
+                {
+                    "name": "Liouguei (Liugui)",
+                    "translation_key": "TW_KAOHSUNG_Liouguei_Liugui"
+                },
+                {
+                    "name": "Jiasian (Jiaxian)",
+                    "translation_key": "TW_KAOHSUNG_Jiasian_Jiaxian"
+                },
+                {
+                    "name": "Shanlin",
+                    "translation_key": "TW_KAOHSUNG_Shanlin"
+                },
+                {
+                    "name": "Neimen",
+                    "translation_key": "TW_KAOHSUNG_Neimen"
+                },
+                {
+                    "name": "Maolin",
+                    "translation_key": "TW_KAOHSUNG_Maolin"
+                },
+                {
+                    "name": "Taoyuan (Tauyuan)",
+                    "translation_key": "TW_KAOHSUNG_Taoyuan_Tauyuan"
+                },
+                {
+                    "name": "Namasia (Namaxia)",
+                    "translation_key": "TW_KAOHSUNG_Namasia_Namaxia"
+                }
+            ]
+        },
+        {
+            "name": "Chiayi",
+            "translation_key": "TW_CHIAYI",
+            "country": "TW",
+            "districts": [
+                {
+                    "name": "East",
+                    "translation_key": "TW_CHIAYI_East"
+                },
+                {
+                    "name": "West",
+                    "translation_key": "TW_CHIAYI_West"
+                }
+            ]
+        },
+        {
+            "name": "Hsinchu",
+            "translation_key": "TW_HSINCHU",
+            "country": "TW",
+            "districts": [
+                {
+                    "name": "East",
+                    "translation_key": "TW_HSINCHU_East"
+                },
+                {
+                    "name": "North",
+                    "translation_key": "TW_HSINCHU_North"
+                },
+                {
+                    "name": "Xiangshan",
+                    "translation_key": "TW_HSINCHU_Xiangshan"
+                }
+            ]
+        },
+        {
+            "name": "Keelung",
+            "translation_key": "TW_KEELUNG",
+            "country": "TW",
+            "districts": [
+                {
+                    "name": "Zhongzheng",
+                    "translation_key": "TW_KEELUNG_Zhongzheng"
+                },
+                {
+                    "name": "Zhongshan",
+                    "translation_key": "TW_KEELUNG_Zhongshan"
+                },
+                {
+                    "name": "Ren'ai",
+                    "translation_key": "TW_KEELUNG_Ren_ai"
+                },
+                {
+                    "name": "Xinyi",
+                    "translation_key": "TW_KEELUNG_Xinyi"
+                },
+                {
+                    "name": "Anle",
+                    "translation_key": "TW_KEELUNG_Anle"
+                },
+                {
+                    "name": "Nuannuan",
+                    "translation_key": "TW_KEELUNG_Nuannuan"
+                },
+                {
+                    "name": "Qidu",
+                    "translation_key": "TW_KEELUNG_Qidu"
+                }
+            ]
+        }
+    ]
+}
